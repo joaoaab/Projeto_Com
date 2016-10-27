@@ -26,10 +26,9 @@ juntamente com um relatório especificando o que foi feito em cada uma delas.
 
 - [ ] Sobre o jogo:
 • O baralho possui 32 cartas, cada com um número de 1 a 8 e uma letra de A a D.
-• As regras do jogo encontram-se em:
-https://docs.google.com/document/d/18CkS7rS9JrRdxTYo33Ao3xUjYASJNG412ACeF2Sep3c/preview
--[]Servidor: Deverá controlar toda a lógica do jogo. Inclui: Distribuição das cartas, avaliação do resultado de cada turno e verificação da condição de vitória.
--[]Cliente: Deverá receber as jogadas do usuário e as mandar para o servidor. Deverá mostrar as cartas escolhidas pelos adversários a cada turno.
+• As regras do jogo encontram-se em:https://docs.google.com/document/d/18CkS7rS9JrRdxTYo33Ao3xUjYASJNG412ACeF2Sep3c/preview
+- [ ] Servidor: Deverá controlar toda a lógica do jogo. Inclui: Distribuição das cartas, avaliação do resultado de cada turno e verificação da condição de vitória.
+- [ ] Cliente: Deverá receber as jogadas do usuário e as mandar para o servidor. Deverá mostrar as cartas escolhidas pelos adversários a cada turno.
 
 - __Batalha Naval (P2P)__:
 
