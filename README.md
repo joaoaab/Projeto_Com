@@ -18,7 +18,7 @@ juntamente com um relatório especificando o que foi feito em cada uma delas.
 - [ ] Deverá ser implementada uma camada de confiabilidade sobre UDP.
 - [ ] Podem ser utilizados os métodos vistos em sala, GBN e retransmissão seletiva.
 - [ ] Para melhor controle e visualização do processo, o programa deverá indicar sempre que uma transmissão ou retransmissão ocorrer.
-- [ ] A aplicação será a transmissão de strings de um programa para outro (podem ser diferentes).
+- [x] A aplicação será a transmissão de strings de um programa para outro (podem ser diferentes).
 
 - __Super-Trunfo (Cliente e Servidor)__:
 
