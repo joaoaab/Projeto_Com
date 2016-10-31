@@ -7,9 +7,11 @@ def main():
 	print("The server is ready to receive")
 	message = ""
 	while message != "quit":
-		message,clientAdress = serverSocket.recvfrom(2048)
+		message,clientAdress = serverSocket.recvfrom(1024)
 		message = message.decode()
-		print(message)
+		print("recebido %d bytes na forma de %s\n" % (len(message),message))
+		serverSocket.sendto(message.encode(),clientAdress)
+
 	serverSocket.close()
 
 if __name__ == '__main__':

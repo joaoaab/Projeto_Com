@@ -4,18 +4,15 @@ from socket import *
 Window_Size = 1024
 
 def main():
-	serverName = 'localhost'
+	sock = socket(AF_INET,SOCK_DGRAM)
 	serverPort = 12000
-	clientSocket = socket(AF_INET,SOCK_DGRAM)
+	serverAdress = "localhost"
 	message = ""
-	contador = 0
 	while message != "quit":
-		message = input('input message to deliver\n')
-		clientSocket.sendto(bytes(message,"UTF-8"),(serverName,serverPort))
-		print("pacote enviado, numero = ",contador)
-		contador = contador + 1
-	clientSocket.close()
-
+		message = input("mensagem a ser enviada \n")
+		sock.sendto(message.encode(),(serverAdress,serverPort))
+		#echo,addr = sock.recvfrom(1024)
+		#print(echo.decode())
 
 if __name__ == '__main__':
 	main()
