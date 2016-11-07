@@ -3,31 +3,59 @@ from socket import *
 from collections import namedtuple
 import time
 import pickle
+import threading
 
 
 ####### Formato do Frame -> |||256 bytes de mensagem|Sequence Number|Ack|||
 
 
+# Estruturas
+packages = []
+
 # Constantes
-Window_Size = 1024
+windowSize = 4
 requestNumber = 0
 sequenceNumber = 0
 windowLeft = 0
-windowRight = 1000
+windowRight = 3
 qtdpacotes = 0
+estimatedRTT = 1
+enviados = 0
 
 
-#def criarPacotes(conteudo,numeroSequencia):
-#	package = pass 
+# Destino
+destino = socket.socket(AF_INET,SOCK_DGRAM)
+adest = destino.gethostname()
+aporta = 9000
 
+
+
+#Envia a primeira Janela de pacotes e chama a função que vai ficar recebendo os acks e "deslizando" a janela
 def Enviar(conteudo):
-	global Window_Size
+	global windowSize
 	global sequenceNumber
 	global windowLeft
 	global windowRight
 	global qtdpacotes
+	global packages
+	global enviados
+	enviados = 0
 	qtdpacotes = len(conteudo) # desse jeito eu garanto 1 pacote por "fatia" do arquivo
 	packages = prepararParaEnvio(conteudo)
+	windowRight = min(int(windowSize),qtdpacotes)#para não tentar enviar coisas que não existem na lista (segmentation fault)
+	while enviados < windowRight: 
+		socketar(packages[enviados]) #chama a função que envia para o destino 
+		enviados += 1
+	Controle() #chama a função que faz o controle dos acks
+
+
+#Litrealmente envia um pacote ao destino
+def socketar(pacote):
+	sock = socket.socket(AF_INET,SOCK_DGRAM)
+	adress = sock.gethostname()
+	porta = 12000
+	sock.sendto(pacote,(adress,porta))
+	sock.close()
 
 
 def prepararParaEnvio(conteudo):
@@ -44,13 +72,44 @@ def criarPacotes(mensagem,Sn):
 	return pacote #retorna a string serializada
 
 
-	
+def Controle():
+	global destino
+	global aporta
+	global adest
+	global windowRight
+	global windowLeft
+	global windowSize
+	global qtdpacotes
+	nPacotesAcked = 0
+	while True :
+		recebido = destino.recv(1024) #recebe um pacote
+		dados = pickle.loads(recebido) #desserializa
+		if dados[2] == 1: #checka se é ACK
+			Sn = dados[1] #pega o numero de sequencia do ACK
+			if Sn >= windowLeft and Sn <= qtdpacotes: #numero de sequencia tem que estar entre o começo da janela e a qtd total de pacotes 
+				nPacotesAcked += Sn - windowLeft 
+				temp_windowRight = windowRight
+				windowRight = min( windowRight+ ACK -windowLeft ,qtdpacotes-1)
+				windowLeft = Sn
+				for i in range(windowRight-temp_windowRight):
+					socketar(packages[enviados])
+					if enviados < qtdpacotes:
+						enviados +=1
+			elif Sn == qtdpacotes:
+				print("Terminado!")
+
+
+
+
+
+
+
 def main():
 	conteudo = []
 	#Ler o arquivo e criar as "fatias" para colocar nos pacotes
 	with open("hamlet.txt","rb") as arquivo :
 		while True:
-			fatia = arquivo.read(int(sequenceMax))
+			fatia = arquivo.read(256)
 			if fatia:
 				conteudo.append(fatia)
 			else:
