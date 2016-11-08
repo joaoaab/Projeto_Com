@@ -1,12 +1,12 @@
 # importar modulos
-from socket import *
+import socket
 from collections import namedtuple
 import time
 import pickle
 import threading
 
 
-####### Formato do Frame -> |||256 bytes de mensagem|Sequence Number|Ack|||
+####### Formato do Frame -> |||256 bytes de mensagem|Sequence Number|Ack|Timer|||
 
 
 # Estruturas
@@ -21,12 +21,14 @@ windowRight = 3
 qtdpacotes = 0
 estimatedRTT = 1
 enviados = 0
+MsgFIM = "QuitConnection"
 
 
 # Destino
-destino = socket.socket(AF_INET,SOCK_DGRAM)
-adest = destino.gethostname()
+destino = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
+adest = "localhost"
 aporta = 9000
+destino.bind(("localhost",aporta))
 
 
 
@@ -44,15 +46,16 @@ def Enviar(conteudo):
 	packages = prepararParaEnvio(conteudo)
 	windowRight = min(int(windowSize),qtdpacotes)#para não tentar enviar coisas que não existem na lista (segmentation fault)
 	while enviados < windowRight: 
-		socketar(packages[enviados]) #chama a função que envia para o destino 
+		socketar(packages[enviados]) #chama a função que envia para o destino
+		print ("Enviando Pacote " + str(enviados)) 
 		enviados += 1
 	Controle() #chama a função que faz o controle dos acks
 
 
 #Litrealmente envia um pacote ao destino
 def socketar(pacote):
-	sock = socket.socket(AF_INET,SOCK_DGRAM)
-	adress = sock.gethostname()
+	sock = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
+	adress = "localhost"
 	porta = 12000
 	sock.sendto(pacote,(adress,porta))
 	sock.close()
@@ -80,23 +83,30 @@ def Controle():
 	global windowLeft
 	global windowSize
 	global qtdpacotes
+	global enviados
 	nPacotesAcked = 0
 	while True :
 		recebido = destino.recv(1024) #recebe um pacote
 		dados = pickle.loads(recebido) #desserializa
 		if dados[2] == 1: #checka se é ACK
 			Sn = dados[1] #pega o numero de sequencia do ACK
-			if Sn >= windowLeft and Sn <= qtdpacotes: #numero de sequencia tem que estar entre o começo da janela e a qtd total de pacotes 
+			print("ACK Recebido : " + str(Sn))
+			if Sn >= windowLeft and Sn < qtdpacotes: #numero de sequencia tem que estar entre o começo da janela e a qtd total de pacotes 
 				nPacotesAcked += Sn - windowLeft 
-				temp_windowRight = windowRight
-				windowRight = min( windowRight+ ACK -windowLeft ,qtdpacotes-1)
-				windowLeft = Sn
-				for i in range(windowRight-temp_windowRight):
-					socketar(packages[enviados])
+				temp_windowRight = windowRight #pra deslizar a janela
+				windowRight = min( windowRight + Sn - windowLeft ,qtdpacotes) #pra garantir que não vou enviar um pacote fora da janela
+				windowLeft = Sn # pra deslizar o limite inferior da janela
+				for i in range(windowRight-temp_windowRight): 
+					socketar(packages[enviados]) #envia o pacote
+					print("Enviando pacote " + str(enviados))
 					if enviados < qtdpacotes:
 						enviados +=1
 			elif Sn == qtdpacotes:
-				print("Terminado!")
+				print("Mensagens transferidas com sucesso! ")
+				fin = criarPacotes(MsgFIM,0)
+				socketar(fin)
+				destino.close()
+				break
 
 
 
@@ -107,24 +117,14 @@ def Controle():
 def main():
 	conteudo = []
 	#Ler o arquivo e criar as "fatias" para colocar nos pacotes
-	with open("hamlet.txt","rb") as arquivo :
+	with open("sherlock.txt","rb") as arquivo :
 		while True:
-			fatia = arquivo.read(256)
+			fatia = arquivo.read(512)
 			if fatia:
 				conteudo.append(fatia)
 			else:
 				break
 	Enviar(conteudo)
-
-	#sock = socket(AF_INET,SOCK_DGRAM)
-	#serverPort = 12000
-	#serverAdress = "localhost"
-	#message = ""
-	#while message != "quit":
-	#	message = input("mensagem a ser enviada \n")
-	#	sock.sendto(message.encode(),(serverAdress,serverPort))
-		#echo,addr = sock.recvfrom(1024)
-		#print(echo.decode())
 
 
 if __name__ == '__main__':
