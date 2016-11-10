@@ -15,9 +15,9 @@ juntamente com um relatório especificando o que foi feito em cada uma delas.
 
 - __Protocolo confiável sobre UDP (Camada de Transporte)__:
 
-- [ ] Deverá ser implementada uma camada de confiabilidade sobre UDP.
-- [ ] Podem ser utilizados os métodos vistos em sala, GBN e retransmissão seletiva.
-- [ ] Para melhor controle e visualização do processo, o programa deverá indicar sempre que uma transmissão ou retransmissão ocorrer.
+- [X] Deverá ser implementada uma camada de confiabilidade sobre UDP.
+- [X] Podem ser utilizados os métodos vistos em sala, GBN e retransmissão seletiva. (escolhido : GBN)
+- [X] Para melhor controle e visualização do processo, o programa deverá indicar sempre que uma transmissão ou retransmissão ocorrer.
 - [x] A aplicação será a transmissão de strings de um programa para outro (podem ser diferentes).
 
 - __Super-Trunfo (Cliente e Servidor)__:
