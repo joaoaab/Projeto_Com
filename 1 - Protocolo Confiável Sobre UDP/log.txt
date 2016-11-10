@@ -1,0 +1,2529 @@
+Começando programa, Registrar LOG,data : 11/10/16 01:17:31 
+Enviando Pacote 0
+Enviando Pacote 1
+Enviando Pacote 2
+Enviando Pacote 3
+ACK Recebido : 1
+Enviando pacote 4
+ACK Recebido : 2
+Enviando pacote 5
+ACK Recebido : 3
+Enviando pacote 6
+ACK Recebido : 4
+Enviando pacote 7
+ACK Recebido : 5
+Enviando pacote 8
+ACK Recebido : 6
+Enviando pacote 9
+ACK Recebido : 7
+Enviando pacote 10
+ACK Recebido : 8
+Enviando pacote 11
+ACK Recebido : 9
+Enviando pacote 12
+ACK Recebido : 10
+Enviando pacote 13
+ACK Recebido : 11
+Enviando pacote 14
+ACK Recebido : 12
+Enviando pacote 15
+ACK Recebido : 13
+Enviando pacote 16
+ACK Recebido : 14
+Enviando pacote 17
+ACK Recebido : 15
+Enviando pacote 18
+ACK Recebido : 16
+Enviando pacote 19
+ACK Recebido : 17
+Enviando pacote 20
+ACK Recebido : 18
+Enviando pacote 21
+ACK Recebido : 19
+Enviando pacote 22
+ACK Recebido : 20
+Enviando pacote 23
+ACK Recebido : 21
+Enviando pacote 24
+ACK Recebido : 22
+Enviando pacote 25
+ACK Recebido : 23
+Enviando pacote 26
+ACK Recebido : 24
+Enviando pacote 27
+ACK Recebido : 25
+Enviando pacote 28
+ACK Recebido : 26
+Enviando pacote 29
+ACK Recebido : 27
+Enviando pacote 30
+ACK Recebido : 28
+Enviando pacote 31
+ACK Recebido : 29
+Enviando pacote 32
+ACK Recebido : 30
+Enviando pacote 33
+ACK Recebido : 31
+Enviando pacote 34
+ACK Recebido : 32
+Enviando pacote 35
+ACK Recebido : 33
+Enviando pacote 36
+ACK Recebido : 34
+Enviando pacote 37
+ACK Recebido : 35
+Enviando pacote 38
+ACK Recebido : 36
+Enviando pacote 39
+ACK Recebido : 37
+Enviando pacote 40
+ACK Recebido : 38
+Enviando pacote 41
+ACK Recebido : 39
+Enviando pacote 42
+ACK Recebido : 40
+Enviando pacote 43
+ACK Recebido : 41
+Enviando pacote 44
+ACK Recebido : 42
+Enviando pacote 45
+ACK Recebido : 43
+Enviando pacote 46
+ACK Recebido : 44
+Enviando pacote 47
+ACK Recebido : 45
+Enviando pacote 48
+ACK Recebido : 46
+Enviando pacote 49
+ACK Recebido : 47
+Enviando pacote 50
+ACK Recebido : 48
+Enviando pacote 51
+ACK Recebido : 49
+Enviando pacote 52
+ACK Recebido : 50
+Enviando pacote 53
+ACK Recebido : 51
+Enviando pacote 54
+ACK Recebido : 52
+Enviando pacote 55
+ACK Recebido : 53
+Enviando pacote 56
+ACK Recebido : 54
+Enviando pacote 57
+ACK Recebido : 55
+Enviando pacote 58
+ACK Recebido : 56
+Enviando pacote 59
+ACK Recebido : 57
+Enviando pacote 60
+ACK Recebido : 58
+Enviando pacote 61
+ACK Recebido : 59
+Enviando pacote 62
+ACK Recebido : 60
+Enviando pacote 63
+ACK Recebido : 61
+Enviando pacote 64
+ACK Recebido : 62
+Enviando pacote 65
+ACK Recebido : 63
+Enviando pacote 66
+ACK Recebido : 64
+Enviando pacote 67
+ACK Recebido : 65
+Enviando pacote 68
+ACK Recebido : 66
+Enviando pacote 69
+ACK Recebido : 67
+Enviando pacote 70
+ACK Recebido : 68
+Enviando pacote 71
+ACK Recebido : 69
+Enviando pacote 72
+ACK Recebido : 70
+Enviando pacote 73
+ACK Recebido : 71
+Enviando pacote 74
+ACK Recebido : 72
+Enviando pacote 75
+ACK Recebido : 73
+Enviando pacote 76
+ACK Recebido : 74
+Enviando pacote 77
+ACK Recebido : 75
+Enviando pacote 78
+ACK Recebido : 76
+Enviando pacote 79
+ACK Recebido : 77
+Enviando pacote 80
+ACK Recebido : 78
+Enviando pacote 81
+ACK Recebido : 79
+Enviando pacote 82
+ACK Recebido : 80
+Enviando pacote 83
+ACK Recebido : 81
+Enviando pacote 84
+ACK Recebido : 82
+Enviando pacote 85
+ACK Recebido : 83
+Enviando pacote 86
+ACK Recebido : 84
+Enviando pacote 87
+ACK Recebido : 85
+Enviando pacote 88
+ACK Recebido : 86
+Enviando pacote 89
+ACK Recebido : 87
+Enviando pacote 90
+ACK Recebido : 88
+Enviando pacote 91
+ACK Recebido : 89
+Enviando pacote 92
+ACK Recebido : 90
+Enviando pacote 93
+ACK Recebido : 91
+Enviando pacote 94
+ACK Recebido : 92
+Enviando pacote 95
+ACK Recebido : 93
+Enviando pacote 96
+ACK Recebido : 94
+Enviando pacote 97
+ACK Recebido : 95
+Enviando pacote 98
+ACK Recebido : 96
+Enviando pacote 99
+ACK Recebido : 97
+Enviando pacote 100
+ACK Recebido : 98
+Enviando pacote 101
+ACK Recebido : 99
+Enviando pacote 102
+ACK Recebido : 100
+Enviando pacote 103
+ACK Recebido : 101
+Enviando pacote 104
+ACK Recebido : 102
+Enviando pacote 105
+ACK Recebido : 103
+Enviando pacote 106
+ACK Recebido : 104
+Enviando pacote 107
+ACK Recebido : 105
+Enviando pacote 108
+ACK Recebido : 106
+Enviando pacote 109
+ACK Recebido : 107
+Enviando pacote 110
+ACK Recebido : 108
+Enviando pacote 111
+ACK Recebido : 109
+Enviando pacote 112
+ACK Recebido : 110
+Enviando pacote 113
+ACK Recebido : 111
+Enviando pacote 114
+ACK Recebido : 112
+Enviando pacote 115
+ACK Recebido : 113
+Enviando pacote 116
+ACK Recebido : 114
+Enviando pacote 117
+ACK Recebido : 115
+Enviando pacote 118
+ACK Recebido : 116
+Enviando pacote 119
+ACK Recebido : 117
+Enviando pacote 120
+ACK Recebido : 118
+Enviando pacote 121
+ACK Recebido : 119
+Enviando pacote 122
+ACK Recebido : 120
+Enviando pacote 123
+ACK Recebido : 121
+Enviando pacote 124
+ACK Recebido : 122
+Enviando pacote 125
+ACK Recebido : 123
+Enviando pacote 126
+ACK Recebido : 124
+Enviando pacote 127
+ACK Recebido : 125
+Enviando pacote 128
+ACK Recebido : 126
+Enviando pacote 129
+ACK Recebido : 127
+Enviando pacote 130
+ACK Recebido : 128
+Enviando pacote 131
+ACK Recebido : 129
+Enviando pacote 132
+ACK Recebido : 130
+Enviando pacote 133
+ACK Recebido : 131
+Enviando pacote 134
+ACK Recebido : 132
+Enviando pacote 135
+ACK Recebido : 133
+Enviando pacote 136
+ACK Recebido : 134
+Enviando pacote 137
+ACK Recebido : 135
+Enviando pacote 138
+ACK Recebido : 136
+Enviando pacote 139
+ACK Recebido : 137
+Enviando pacote 140
+ACK Recebido : 138
+Enviando pacote 141
+ACK Recebido : 139
+Enviando pacote 142
+ACK Recebido : 140
+Enviando pacote 143
+ACK Recebido : 141
+Enviando pacote 144
+ACK Recebido : 142
+Enviando pacote 145
+ACK Recebido : 143
+Enviando pacote 146
+ACK Recebido : 144
+Enviando pacote 147
+ACK Recebido : 145
+Enviando pacote 148
+ACK Recebido : 146
+Enviando pacote 149
+ACK Recebido : 147
+Enviando pacote 150
+ACK Recebido : 148
+Enviando pacote 151
+ACK Recebido : 149
+Enviando pacote 152
+ACK Recebido : 150
+Enviando pacote 153
+ACK Recebido : 151
+Enviando pacote 154
+ACK Recebido : 152
+Enviando pacote 155
+ACK Recebido : 153
+Enviando pacote 156
+ACK Recebido : 154
+Enviando pacote 157
+ACK Recebido : 155
+Enviando pacote 158
+ACK Recebido : 156
+Enviando pacote 159
+ACK Recebido : 157
+Enviando pacote 160
+ACK Recebido : 158
+Enviando pacote 161
+ACK Recebido : 159
+Enviando pacote 162
+ACK Recebido : 160
+Enviando pacote 163
+ACK Recebido : 161
+Enviando pacote 164
+ACK Recebido : 162
+Enviando pacote 165
+ACK Recebido : 163
+Enviando pacote 166
+ACK Recebido : 164
+Enviando pacote 167
+ACK Recebido : 165
+Enviando pacote 168
+ACK Recebido : 166
+Enviando pacote 169
+ACK Recebido : 167
+Enviando pacote 170
+ACK Recebido : 168
+Enviando pacote 171
+ACK Recebido : 169
+Enviando pacote 172
+ACK Recebido : 170
+Enviando pacote 173
+ACK Recebido : 171
+Enviando pacote 174
+ACK Recebido : 172
+Enviando pacote 175
+ACK Recebido : 173
+Enviando pacote 176
+ACK Recebido : 174
+Enviando pacote 177
+ACK Recebido : 175
+Enviando pacote 178
+ACK Recebido : 176
+Enviando pacote 179
+ACK Recebido : 177
+Enviando pacote 180
+ACK Recebido : 178
+Enviando pacote 181
+ACK Recebido : 179
+Enviando pacote 182
+ACK Recebido : 180
+Enviando pacote 183
+ACK Recebido : 181
+Enviando pacote 184
+ACK Recebido : 182
+Enviando pacote 185
+ACK Recebido : 183
+Enviando pacote 186
+ACK Recebido : 184
+Enviando pacote 187
+ACK Recebido : 185
+Enviando pacote 188
+ACK Recebido : 186
+Enviando pacote 189
+ACK Recebido : 187
+Enviando pacote 190
+ACK Recebido : 188
+Enviando pacote 191
+ACK Recebido : 189
+Enviando pacote 192
+ACK Recebido : 190
+Enviando pacote 193
+ACK Recebido : 191
+Enviando pacote 194
+ACK Recebido : 192
+Enviando pacote 195
+ACK Recebido : 193
+Enviando pacote 196
+ACK Recebido : 194
+Enviando pacote 197
+ACK Recebido : 195
+Enviando pacote 198
+ACK Recebido : 196
+Enviando pacote 199
+ACK Recebido : 197
+Enviando pacote 200
+ACK Recebido : 198
+Enviando pacote 201
+ACK Recebido : 199
+Enviando pacote 202
+ACK Recebido : 200
+Enviando pacote 203
+ACK Recebido : 201
+Enviando pacote 204
+ACK Recebido : 202
+Enviando pacote 205
+ACK Recebido : 203
+Enviando pacote 206
+ACK Recebido : 204
+Enviando pacote 207
+ACK Recebido : 205
+Enviando pacote 208
+ACK Recebido : 206
+Enviando pacote 209
+ACK Recebido : 207
+Enviando pacote 210
+ACK Recebido : 208
+Enviando pacote 211
+ACK Recebido : 209
+Enviando pacote 212
+ACK Recebido : 210
+Enviando pacote 213
+ACK Recebido : 211
+Enviando pacote 214
+ACK Recebido : 212
+Enviando pacote 215
+ACK Recebido : 213
+Enviando pacote 216
+ACK Recebido : 214
+Enviando pacote 217
+ACK Recebido : 215
+Enviando pacote 218
+ACK Recebido : 216
+Enviando pacote 219
+ACK Recebido : 217
+Enviando pacote 220
+ACK Recebido : 218
+Enviando pacote 221
+ACK Recebido : 219
+Enviando pacote 222
+ACK Recebido : 220
+Enviando pacote 223
+ACK Recebido : 221
+Enviando pacote 224
+ACK Recebido : 222
+Enviando pacote 225
+ACK Recebido : 223
+Enviando pacote 226
+ACK Recebido : 224
+Enviando pacote 227
+ACK Recebido : 225
+Enviando pacote 228
+ACK Recebido : 226
+Enviando pacote 229
+ACK Recebido : 227
+Enviando pacote 230
+ACK Recebido : 228
+Enviando pacote 231
+ACK Recebido : 229
+Enviando pacote 232
+ACK Recebido : 230
+Enviando pacote 233
+ACK Recebido : 231
+Enviando pacote 234
+ACK Recebido : 232
+Enviando pacote 235
+ACK Recebido : 233
+Enviando pacote 236
+ACK Recebido : 234
+Enviando pacote 237
+ACK Recebido : 235
+Enviando pacote 238
+ACK Recebido : 236
+Enviando pacote 239
+ACK Recebido : 237
+Enviando pacote 240
+ACK Recebido : 238
+Enviando pacote 241
+ACK Recebido : 239
+Enviando pacote 242
+ACK Recebido : 240
+Enviando pacote 243
+ACK Recebido : 241
+Enviando pacote 244
+ACK Recebido : 242
+Enviando pacote 245
+ACK Recebido : 243
+Enviando pacote 246
+ACK Recebido : 244
+Enviando pacote 247
+ACK Recebido : 245
+Enviando pacote 248
+ACK Recebido : 246
+Enviando pacote 249
+ACK Recebido : 247
+Enviando pacote 250
+ACK Recebido : 248
+Enviando pacote 251
+ACK Recebido : 249
+Enviando pacote 252
+ACK Recebido : 250
+Enviando pacote 253
+ACK Recebido : 251
+Enviando pacote 254
+ACK Recebido : 252
+Enviando pacote 255
+ACK Recebido : 253
+Enviando pacote 256
+ACK Recebido : 254
+Enviando pacote 257
+ACK Recebido : 255
+Enviando pacote 258
+ACK Recebido : 256
+Enviando pacote 259
+ACK Recebido : 257
+Enviando pacote 260
+ACK Recebido : 258
+Enviando pacote 261
+ACK Recebido : 259
+Enviando pacote 262
+ACK Recebido : 260
+Enviando pacote 263
+ACK Recebido : 261
+Enviando pacote 264
+ACK Recebido : 262
+Enviando pacote 265
+ACK Recebido : 263
+Enviando pacote 266
+ACK Recebido : 264
+Enviando pacote 267
+ACK Recebido : 265
+Enviando pacote 268
+ACK Recebido : 266
+Enviando pacote 269
+ACK Recebido : 267
+Enviando pacote 270
+ACK Recebido : 268
+Enviando pacote 271
+ACK Recebido : 269
+Enviando pacote 272
+ACK Recebido : 270
+Enviando pacote 273
+ACK Recebido : 271
+Enviando pacote 274
+ACK Recebido : 272
+Enviando pacote 275
+ACK Recebido : 273
+Enviando pacote 276
+ACK Recebido : 274
+Enviando pacote 277
+ACK Recebido : 275
+Enviando pacote 278
+ACK Recebido : 276
+Enviando pacote 279
+ACK Recebido : 277
+Enviando pacote 280
+ACK Recebido : 278
+Enviando pacote 281
+ACK Recebido : 279
+Enviando pacote 282
+ACK Recebido : 280
+Enviando pacote 283
+ACK Recebido : 281
+Enviando pacote 284
+ACK Recebido : 282
+Enviando pacote 285
+ACK Recebido : 283
+Enviando pacote 286
+ACK Recebido : 284
+Enviando pacote 287
+ACK Recebido : 285
+Enviando pacote 288
+ACK Recebido : 286
+Enviando pacote 289
+ACK Recebido : 287
+Enviando pacote 290
+ACK Recebido : 288
+Enviando pacote 291
+ACK Recebido : 289
+Enviando pacote 292
+ACK Recebido : 290
+Enviando pacote 293
+ACK Recebido : 291
+Enviando pacote 294
+ACK Recebido : 292
+Enviando pacote 295
+ACK Recebido : 293
+Enviando pacote 296
+ACK Recebido : 294
+Enviando pacote 297
+ACK Recebido : 295
+Enviando pacote 298
+ACK Recebido : 296
+Enviando pacote 299
+ACK Recebido : 297
+Enviando pacote 300
+ACK Recebido : 298
+Enviando pacote 301
+ACK Recebido : 299
+Enviando pacote 302
+ACK Recebido : 300
+Enviando pacote 303
+ACK Recebido : 301
+Enviando pacote 304
+ACK Recebido : 302
+Enviando pacote 305
+ACK Recebido : 303
+Enviando pacote 306
+ACK Recebido : 304
+Enviando pacote 307
+ACK Recebido : 305
+Enviando pacote 308
+ACK Recebido : 306
+Enviando pacote 309
+ACK Recebido : 307
+Enviando pacote 310
+ACK Recebido : 308
+Enviando pacote 311
+ACK Recebido : 309
+Enviando pacote 312
+ACK Recebido : 310
+Enviando pacote 313
+ACK Recebido : 311
+Enviando pacote 314
+ACK Recebido : 312
+Enviando pacote 315
+ACK Recebido : 313
+Enviando pacote 316
+ACK Recebido : 314
+Enviando pacote 317
+ACK Recebido : 315
+Enviando pacote 318
+ACK Recebido : 316
+Enviando pacote 319
+ACK Recebido : 317
+Enviando pacote 320
+ACK Recebido : 318
+Enviando pacote 321
+ACK Recebido : 319
+Enviando pacote 322
+ACK Recebido : 320
+Enviando pacote 323
+ACK Recebido : 321
+Enviando pacote 324
+ACK Recebido : 322
+Enviando pacote 325
+ACK Recebido : 323
+Enviando pacote 326
+ACK Recebido : 324
+Enviando pacote 327
+ACK Recebido : 325
+Enviando pacote 328
+ACK Recebido : 326
+Enviando pacote 329
+ACK Recebido : 327
+Enviando pacote 330
+ACK Recebido : 328
+Enviando pacote 331
+ACK Recebido : 329
+Enviando pacote 332
+ACK Recebido : 330
+Enviando pacote 333
+ACK Recebido : 331
+Enviando pacote 334
+ACK Recebido : 332
+Enviando pacote 335
+ACK Recebido : 333
+Enviando pacote 336
+ACK Recebido : 334
+Enviando pacote 337
+ACK Recebido : 335
+Enviando pacote 338
+ACK Recebido : 336
+Enviando pacote 339
+ACK Recebido : 337
+Enviando pacote 340
+ACK Recebido : 338
+Enviando pacote 341
+ACK Recebido : 339
+Enviando pacote 342
+ACK Recebido : 340
+Enviando pacote 343
+ACK Recebido : 341
+Enviando pacote 344
+ACK Recebido : 342
+Enviando pacote 345
+ACK Recebido : 343
+Enviando pacote 346
+ACK Recebido : 344
+Enviando pacote 347
+ACK Recebido : 345
+Enviando pacote 348
+ACK Recebido : 346
+Enviando pacote 349
+ACK Recebido : 347
+Enviando pacote 350
+ACK Recebido : 348
+Enviando pacote 351
+ACK Recebido : 349
+Enviando pacote 352
+ACK Recebido : 350
+Enviando pacote 353
+ACK Recebido : 351
+Enviando pacote 354
+ACK Recebido : 352
+Enviando pacote 355
+ACK Recebido : 353
+Enviando pacote 356
+ACK Recebido : 354
+Enviando pacote 357
+ACK Recebido : 355
+Enviando pacote 358
+ACK Recebido : 356
+Enviando pacote 359
+ACK Recebido : 357
+Enviando pacote 360
+ACK Recebido : 358
+Enviando pacote 361
+ACK Recebido : 359
+Enviando pacote 362
+ACK Recebido : 360
+Enviando pacote 363
+ACK Recebido : 361
+Enviando pacote 364
+ACK Recebido : 362
+Enviando pacote 365
+ACK Recebido : 363
+Enviando pacote 366
+ACK Recebido : 364
+Enviando pacote 367
+ACK Recebido : 365
+Enviando pacote 368
+ACK Recebido : 366
+Enviando pacote 369
+ACK Recebido : 367
+Enviando pacote 370
+ACK Recebido : 368
+Enviando pacote 371
+ACK Recebido : 369
+Enviando pacote 372
+ACK Recebido : 370
+Enviando pacote 373
+ACK Recebido : 371
+Enviando pacote 374
+ACK Recebido : 372
+Enviando pacote 375
+ACK Recebido : 373
+Enviando pacote 376
+ACK Recebido : 374
+Enviando pacote 377
+ACK Recebido : 375
+Enviando pacote 378
+ACK Recebido : 376
+Enviando pacote 379
+ACK Recebido : 377
+Enviando pacote 380
+ACK Recebido : 378
+Enviando pacote 381
+ACK Recebido : 379
+Enviando pacote 382
+ACK Recebido : 380
+Enviando pacote 383
+ACK Recebido : 381
+Enviando pacote 384
+ACK Recebido : 382
+Enviando pacote 385
+ACK Recebido : 383
+Enviando pacote 386
+ACK Recebido : 384
+Enviando pacote 387
+ACK Recebido : 385
+Enviando pacote 388
+ACK Recebido : 386
+Enviando pacote 389
+ACK Recebido : 387
+Enviando pacote 390
+ACK Recebido : 388
+Enviando pacote 391
+ACK Recebido : 389
+Enviando pacote 392
+ACK Recebido : 390
+Enviando pacote 393
+ACK Recebido : 391
+Enviando pacote 394
+ACK Recebido : 392
+Enviando pacote 395
+ACK Recebido : 393
+Enviando pacote 396
+ACK Recebido : 394
+Enviando pacote 397
+ACK Recebido : 395
+Enviando pacote 398
+ACK Recebido : 396
+Enviando pacote 399
+ACK Recebido : 397
+Enviando pacote 400
+ACK Recebido : 398
+Enviando pacote 401
+ACK Recebido : 399
+Enviando pacote 402
+ACK Recebido : 400
+Enviando pacote 403
+ACK Recebido : 401
+Enviando pacote 404
+ACK Recebido : 402
+Enviando pacote 405
+ACK Recebido : 403
+Enviando pacote 406
+ACK Recebido : 404
+Enviando pacote 407
+ACK Recebido : 405
+Enviando pacote 408
+ACK Recebido : 406
+Enviando pacote 409
+ACK Recebido : 407
+Enviando pacote 410
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 407
+Reenviando Pacote : 408
+Reenviando Pacote : 409
+Reenviando Pacote : 410
+Reenviando Pacote : 411
+ACK Recebido : 408
+Enviando pacote 411
+ACK Recebido : 409
+Enviando pacote 412
+ACK Recebido : 410
+Enviando pacote 413
+ACK Recebido : 411
+Enviando pacote 414
+ACK Recebido : 412
+Enviando pacote 415
+ACK Recebido : 413
+Enviando pacote 416
+ACK Recebido : 414
+Enviando pacote 417
+ACK Recebido : 415
+Enviando pacote 418
+ACK Recebido : 416
+Enviando pacote 419
+ACK Recebido : 417
+Enviando pacote 420
+ACK Recebido : 418
+Enviando pacote 421
+ACK Recebido : 419
+Enviando pacote 422
+ACK Recebido : 420
+Enviando pacote 423
+ACK Recebido : 421
+Enviando pacote 424
+ACK Recebido : 422
+Enviando pacote 425
+ACK Recebido : 423
+Enviando pacote 426
+ACK Recebido : 424
+Enviando pacote 427
+ACK Recebido : 425
+Enviando pacote 428
+ACK Recebido : 426
+Enviando pacote 429
+ACK Recebido : 427
+Enviando pacote 430
+ACK Recebido : 428
+Enviando pacote 431
+ACK Recebido : 429
+Enviando pacote 432
+ACK Recebido : 430
+Enviando pacote 433
+ACK Recebido : 431
+Enviando pacote 434
+ACK Recebido : 432
+Enviando pacote 435
+ACK Recebido : 433
+Enviando pacote 436
+ACK Recebido : 434
+Enviando pacote 437
+ACK Recebido : 435
+Enviando pacote 438
+ACK Recebido : 436
+Enviando pacote 439
+ACK Recebido : 437
+Enviando pacote 440
+ACK Recebido : 438
+Enviando pacote 441
+ACK Recebido : 439
+Enviando pacote 442
+ACK Recebido : 440
+Enviando pacote 443
+ACK Recebido : 441
+Enviando pacote 444
+ACK Recebido : 442
+Enviando pacote 445
+ACK Recebido : 443
+Enviando pacote 446
+ACK Recebido : 444
+Enviando pacote 447
+ACK Recebido : 445
+Enviando pacote 448
+ACK Recebido : 446
+Enviando pacote 449
+ACK Recebido : 447
+Enviando pacote 450
+ACK Recebido : 448
+Enviando pacote 451
+ACK Recebido : 449
+Enviando pacote 452
+ACK Recebido : 450
+Enviando pacote 453
+ACK Recebido : 451
+Enviando pacote 454
+ACK Recebido : 452
+Enviando pacote 455
+ACK Recebido : 453
+Enviando pacote 456
+ACK Recebido : 454
+Enviando pacote 457
+ACK Recebido : 455
+Enviando pacote 458
+ACK Recebido : 456
+Enviando pacote 459
+ACK Recebido : 457
+Enviando pacote 460
+ACK Recebido : 458
+Enviando pacote 461
+ACK Recebido : 459
+Enviando pacote 462
+ACK Recebido : 460
+Enviando pacote 463
+ACK Recebido : 461
+Enviando pacote 464
+ACK Recebido : 462
+Enviando pacote 465
+ACK Recebido : 463
+Enviando pacote 466
+ACK Recebido : 464
+Enviando pacote 467
+ACK Recebido : 465
+Enviando pacote 468
+ACK Recebido : 466
+Enviando pacote 469
+ACK Recebido : 467
+Enviando pacote 470
+ACK Recebido : 468
+Enviando pacote 471
+ACK Recebido : 469
+Enviando pacote 472
+ACK Recebido : 470
+Enviando pacote 473
+ACK Recebido : 471
+Enviando pacote 474
+ACK Recebido : 472
+Enviando pacote 475
+ACK Recebido : 473
+Enviando pacote 476
+ACK Recebido : 474
+Enviando pacote 477
+ACK Recebido : 475
+Enviando pacote 478
+ACK Recebido : 476
+Enviando pacote 479
+ACK Recebido : 477
+Enviando pacote 480
+ACK Recebido : 478
+Enviando pacote 481
+ACK Recebido : 479
+Enviando pacote 482
+ACK Recebido : 480
+Enviando pacote 483
+ACK Recebido : 481
+Enviando pacote 484
+ACK Recebido : 482
+Enviando pacote 485
+ACK Recebido : 483
+Enviando pacote 486
+ACK Recebido : 484
+Enviando pacote 487
+ACK Recebido : 485
+Enviando pacote 488
+ACK Recebido : 486
+Enviando pacote 489
+ACK Recebido : 487
+Enviando pacote 490
+ACK Recebido : 488
+Enviando pacote 491
+ACK Recebido : 489
+Enviando pacote 492
+ACK Recebido : 490
+Enviando pacote 493
+ACK Recebido : 491
+Enviando pacote 494
+ACK Recebido : 492
+Enviando pacote 495
+ACK Recebido : 493
+Enviando pacote 496
+ACK Recebido : 494
+Enviando pacote 497
+ACK Recebido : 495
+Enviando pacote 498
+ACK Recebido : 496
+Enviando pacote 499
+ACK Recebido : 497
+Enviando pacote 500
+ACK Recebido : 498
+Enviando pacote 501
+ACK Recebido : 499
+Enviando pacote 502
+ACK Recebido : 500
+Enviando pacote 503
+ACK Recebido : 501
+Enviando pacote 504
+ACK Recebido : 502
+Enviando pacote 505
+ACK Recebido : 503
+Enviando pacote 506
+ACK Recebido : 504
+Enviando pacote 507
+ACK Recebido : 505
+Enviando pacote 508
+ACK Recebido : 506
+Enviando pacote 509
+ACK Recebido : 507
+Enviando pacote 510
+ACK Recebido : 508
+Enviando pacote 511
+ACK Recebido : 509
+Enviando pacote 512
+ACK Recebido : 510
+Enviando pacote 513
+ACK Recebido : 511
+Enviando pacote 514
+ACK Recebido : 512
+Enviando pacote 515
+ACK Recebido : 513
+Enviando pacote 516
+ACK Recebido : 514
+Enviando pacote 517
+ACK Recebido : 515
+Enviando pacote 518
+ACK Recebido : 516
+Enviando pacote 519
+ACK Recebido : 517
+Enviando pacote 520
+ACK Recebido : 518
+Enviando pacote 521
+ACK Recebido : 519
+Enviando pacote 522
+ACK Recebido : 520
+Enviando pacote 523
+ACK Recebido : 521
+Enviando pacote 524
+ACK Recebido : 522
+Enviando pacote 525
+ACK Recebido : 523
+Enviando pacote 526
+ACK Recebido : 524
+Enviando pacote 527
+ACK Recebido : 525
+Enviando pacote 528
+ACK Recebido : 526
+Enviando pacote 529
+ACK Recebido : 527
+Enviando pacote 530
+ACK Recebido : 528
+Enviando pacote 531
+ACK Recebido : 529
+Enviando pacote 532
+ACK Recebido : 530
+Enviando pacote 533
+ACK Recebido : 531
+Enviando pacote 534
+ACK Recebido : 532
+Enviando pacote 535
+ACK Recebido : 533
+Enviando pacote 536
+ACK Recebido : 534
+Enviando pacote 537
+ACK Recebido : 535
+Enviando pacote 538
+ACK Recebido : 536
+Enviando pacote 539
+ACK Recebido : 537
+Enviando pacote 540
+ACK Recebido : 538
+Enviando pacote 541
+ACK Recebido : 539
+Enviando pacote 542
+ACK Recebido : 540
+Enviando pacote 543
+ACK Recebido : 541
+Enviando pacote 544
+ACK Recebido : 542
+Enviando pacote 545
+ACK Recebido : 543
+Enviando pacote 546
+ACK Recebido : 544
+Enviando pacote 547
+ACK Recebido : 545
+Enviando pacote 548
+ACK Recebido : 546
+Enviando pacote 549
+ACK Recebido : 547
+Enviando pacote 550
+ACK Recebido : 548
+Enviando pacote 551
+ACK Recebido : 549
+Enviando pacote 552
+ACK Recebido : 550
+Enviando pacote 553
+ACK Recebido : 551
+Enviando pacote 554
+ACK Recebido : 552
+Enviando pacote 555
+ACK Recebido : 553
+Enviando pacote 556
+ACK Recebido : 554
+Enviando pacote 557
+ACK Recebido : 555
+Enviando pacote 558
+ACK Recebido : 556
+Enviando pacote 559
+ACK Recebido : 557
+Enviando pacote 560
+ACK Recebido : 558
+Enviando pacote 561
+ACK Recebido : 559
+Enviando pacote 562
+ACK Recebido : 560
+Enviando pacote 563
+ACK Recebido : 561
+Enviando pacote 564
+ACK Recebido : 562
+Enviando pacote 565
+ACK Recebido : 563
+Enviando pacote 566
+ACK Recebido : 564
+Enviando pacote 567
+ACK Recebido : 565
+Enviando pacote 568
+ACK Recebido : 566
+Enviando pacote 569
+ACK Recebido : 567
+Enviando pacote 570
+ACK Recebido : 568
+Enviando pacote 571
+ACK Recebido : 569
+Enviando pacote 572
+ACK Recebido : 570
+Enviando pacote 573
+ACK Recebido : 571
+Enviando pacote 574
+ACK Recebido : 572
+Enviando pacote 575
+ACK Recebido : 573
+Enviando pacote 576
+ACK Recebido : 574
+Enviando pacote 577
+ACK Recebido : 575
+Enviando pacote 578
+ACK Recebido : 576
+Enviando pacote 579
+ACK Recebido : 577
+Enviando pacote 580
+ACK Recebido : 578
+Enviando pacote 581
+ACK Recebido : 579
+Enviando pacote 582
+ACK Recebido : 580
+Enviando pacote 583
+ACK Recebido : 581
+Enviando pacote 584
+ACK Recebido : 582
+Enviando pacote 585
+ACK Recebido : 583
+Enviando pacote 586
+ACK Recebido : 584
+Enviando pacote 587
+ACK Recebido : 585
+Enviando pacote 588
+ACK Recebido : 586
+Enviando pacote 589
+ACK Recebido : 587
+Enviando pacote 590
+ACK Recebido : 588
+Enviando pacote 591
+ACK Recebido : 589
+Enviando pacote 592
+ACK Recebido : 590
+Enviando pacote 593
+ACK Recebido : 591
+Enviando pacote 594
+ACK Recebido : 592
+Enviando pacote 595
+ACK Recebido : 593
+Enviando pacote 596
+ACK Recebido : 594
+Enviando pacote 597
+ACK Recebido : 595
+Enviando pacote 598
+ACK Recebido : 596
+Enviando pacote 599
+ACK Recebido : 597
+Enviando pacote 600
+ACK Recebido : 598
+Enviando pacote 601
+ACK Recebido : 599
+Enviando pacote 602
+ACK Recebido : 600
+Enviando pacote 603
+ACK Recebido : 601
+Enviando pacote 604
+ACK Recebido : 602
+Enviando pacote 605
+ACK Recebido : 603
+Enviando pacote 606
+ACK Recebido : 604
+Enviando pacote 607
+ACK Recebido : 605
+Enviando pacote 608
+ACK Recebido : 606
+Enviando pacote 609
+ACK Recebido : 607
+Enviando pacote 610
+ACK Recebido : 608
+Enviando pacote 611
+ACK Recebido : 609
+Enviando pacote 612
+ACK Recebido : 610
+Enviando pacote 613
+ACK Recebido : 611
+Enviando pacote 614
+ACK Recebido : 612
+Enviando pacote 615
+ACK Recebido : 613
+Enviando pacote 616
+ACK Recebido : 614
+Enviando pacote 617
+ACK Recebido : 615
+Enviando pacote 618
+ACK Recebido : 616
+Enviando pacote 619
+ACK Recebido : 617
+Enviando pacote 620
+ACK Recebido : 618
+Enviando pacote 621
+ACK Recebido : 619
+Enviando pacote 622
+ACK Recebido : 620
+Enviando pacote 623
+ACK Recebido : 621
+Enviando pacote 624
+ACK Recebido : 622
+Enviando pacote 625
+ACK Recebido : 623
+Enviando pacote 626
+ACK Recebido : 624
+Enviando pacote 627
+ACK Recebido : 625
+Enviando pacote 628
+ACK Recebido : 626
+Enviando pacote 629
+ACK Recebido : 627
+Enviando pacote 630
+ACK Recebido : 628
+Enviando pacote 631
+ACK Recebido : 629
+Enviando pacote 632
+ACK Recebido : 630
+Enviando pacote 633
+ACK Recebido : 631
+Enviando pacote 634
+ACK Recebido : 632
+Enviando pacote 635
+ACK Recebido : 633
+Enviando pacote 636
+ACK Recebido : 634
+Enviando pacote 637
+ACK Recebido : 635
+Enviando pacote 638
+ACK Recebido : 636
+Enviando pacote 639
+ACK Recebido : 637
+Enviando pacote 640
+ACK Recebido : 638
+Enviando pacote 641
+ACK Recebido : 639
+Enviando pacote 642
+ACK Recebido : 640
+Enviando pacote 643
+ACK Recebido : 641
+Enviando pacote 644
+ACK Recebido : 642
+Enviando pacote 645
+ACK Recebido : 643
+Enviando pacote 646
+ACK Recebido : 644
+Enviando pacote 647
+ACK Recebido : 645
+Enviando pacote 648
+ACK Recebido : 646
+Enviando pacote 649
+ACK Recebido : 647
+Enviando pacote 650
+ACK Recebido : 648
+Enviando pacote 651
+ACK Recebido : 649
+Enviando pacote 652
+ACK Recebido : 650
+Enviando pacote 653
+ACK Recebido : 651
+Enviando pacote 654
+ACK Recebido : 652
+Enviando pacote 655
+ACK Recebido : 653
+Enviando pacote 656
+ACK Recebido : 654
+Enviando pacote 657
+ACK Recebido : 655
+Enviando pacote 658
+ACK Recebido : 656
+Enviando pacote 659
+ACK Recebido : 657
+Enviando pacote 660
+ACK Recebido : 658
+Enviando pacote 661
+ACK Recebido : 659
+Enviando pacote 662
+ACK Recebido : 660
+Enviando pacote 663
+ACK Recebido : 661
+Enviando pacote 664
+ACK Recebido : 662
+Enviando pacote 665
+ACK Recebido : 663
+Enviando pacote 666
+ACK Recebido : 664
+Enviando pacote 667
+ACK Recebido : 665
+Enviando pacote 668
+ACK Recebido : 666
+Enviando pacote 669
+ACK Recebido : 667
+Enviando pacote 670
+ACK Recebido : 668
+Enviando pacote 671
+ACK Recebido : 669
+Enviando pacote 672
+ACK Recebido : 670
+Enviando pacote 673
+ACK Recebido : 671
+Enviando pacote 674
+ACK Recebido : 672
+Enviando pacote 675
+ACK Recebido : 673
+Enviando pacote 676
+ACK Recebido : 674
+Enviando pacote 677
+ACK Recebido : 675
+Enviando pacote 678
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 675
+Reenviando Pacote : 676
+Reenviando Pacote : 677
+Reenviando Pacote : 678
+Reenviando Pacote : 679
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 675
+Reenviando Pacote : 676
+Reenviando Pacote : 677
+Reenviando Pacote : 678
+Reenviando Pacote : 679
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 675
+Reenviando Pacote : 676
+Reenviando Pacote : 677
+Reenviando Pacote : 678
+Reenviando Pacote : 679
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 675
+Reenviando Pacote : 676
+Reenviando Pacote : 677
+Reenviando Pacote : 678
+Reenviando Pacote : 679
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 675
+Reenviando Pacote : 676
+Reenviando Pacote : 677
+Reenviando Pacote : 678
+Reenviando Pacote : 679
+ACK Recebido : 676
+Enviando pacote 679
+ACK Recebido : 677
+Enviando pacote 680
+ACK Recebido : 678
+Enviando pacote 681
+ACK Recebido : 679
+Enviando pacote 682
+ACK Recebido : 680
+Enviando pacote 683
+ACK Recebido : 681
+Enviando pacote 684
+ACK Recebido : 682
+Enviando pacote 685
+ACK Recebido : 683
+Enviando pacote 686
+ACK Recebido : 684
+Enviando pacote 687
+ACK Recebido : 685
+Enviando pacote 688
+ACK Recebido : 686
+Enviando pacote 689
+ACK Recebido : 687
+Enviando pacote 690
+ACK Recebido : 688
+Enviando pacote 691
+ACK Recebido : 689
+Enviando pacote 692
+ACK Recebido : 690
+Enviando pacote 693
+ACK Recebido : 691
+Enviando pacote 694
+ACK Recebido : 692
+Enviando pacote 695
+ACK Recebido : 693
+Enviando pacote 696
+ACK Recebido : 694
+Enviando pacote 697
+ACK Recebido : 695
+Enviando pacote 698
+ACK Recebido : 696
+Enviando pacote 699
+ACK Recebido : 697
+Enviando pacote 700
+ACK Recebido : 698
+Enviando pacote 701
+ACK Recebido : 699
+Enviando pacote 702
+ACK Recebido : 700
+Enviando pacote 703
+ACK Recebido : 701
+Enviando pacote 704
+ACK Recebido : 702
+Enviando pacote 705
+ACK Recebido : 703
+Enviando pacote 706
+ACK Recebido : 704
+Enviando pacote 707
+ACK Recebido : 705
+Enviando pacote 708
+ACK Recebido : 706
+Enviando pacote 709
+ACK Recebido : 707
+Enviando pacote 710
+ACK Recebido : 708
+Enviando pacote 711
+ACK Recebido : 709
+Enviando pacote 712
+ACK Recebido : 710
+Enviando pacote 713
+ACK Recebido : 711
+Enviando pacote 714
+ACK Recebido : 712
+Enviando pacote 715
+ACK Recebido : 713
+Enviando pacote 716
+ACK Recebido : 714
+Enviando pacote 717
+ACK Recebido : 715
+Enviando pacote 718
+ACK Recebido : 716
+Enviando pacote 719
+ACK Recebido : 717
+Enviando pacote 720
+ACK Recebido : 718
+Enviando pacote 721
+ACK Recebido : 719
+Enviando pacote 722
+ACK Recebido : 720
+Enviando pacote 723
+ACK Recebido : 721
+Enviando pacote 724
+ACK Recebido : 722
+Enviando pacote 725
+ACK Recebido : 723
+Enviando pacote 726
+ACK Recebido : 724
+Enviando pacote 727
+ACK Recebido : 725
+Enviando pacote 728
+ACK Recebido : 726
+Enviando pacote 729
+ACK Recebido : 727
+Enviando pacote 730
+ACK Recebido : 728
+Enviando pacote 731
+ACK Recebido : 729
+Enviando pacote 732
+ACK Recebido : 730
+Enviando pacote 733
+ACK Recebido : 731
+Enviando pacote 734
+ACK Recebido : 732
+Enviando pacote 735
+ACK Recebido : 733
+Enviando pacote 736
+ACK Recebido : 734
+Enviando pacote 737
+ACK Recebido : 735
+Enviando pacote 738
+ACK Recebido : 736
+Enviando pacote 739
+ACK Recebido : 737
+Enviando pacote 740
+ACK Recebido : 738
+Enviando pacote 741
+ACK Recebido : 739
+Enviando pacote 742
+ACK Recebido : 740
+Enviando pacote 743
+ACK Recebido : 741
+Enviando pacote 744
+ACK Recebido : 742
+Enviando pacote 745
+ACK Recebido : 743
+Enviando pacote 746
+ACK Recebido : 744
+Enviando pacote 747
+ACK Recebido : 745
+Enviando pacote 748
+ACK Recebido : 746
+Enviando pacote 749
+ACK Recebido : 747
+Enviando pacote 750
+ACK Recebido : 748
+Enviando pacote 751
+ACK Recebido : 749
+Enviando pacote 752
+ACK Recebido : 750
+Enviando pacote 753
+ACK Recebido : 751
+Enviando pacote 754
+ACK Recebido : 752
+Enviando pacote 755
+ACK Recebido : 753
+Enviando pacote 756
+ACK Recebido : 754
+Enviando pacote 757
+ACK Recebido : 755
+Enviando pacote 758
+ACK Recebido : 756
+Enviando pacote 759
+ACK Recebido : 757
+Enviando pacote 760
+ACK Recebido : 758
+Enviando pacote 761
+ACK Recebido : 759
+Enviando pacote 762
+ACK Recebido : 760
+Enviando pacote 763
+ACK Recebido : 761
+Enviando pacote 764
+ACK Recebido : 762
+Enviando pacote 765
+ACK Recebido : 763
+Enviando pacote 766
+ACK Recebido : 764
+Enviando pacote 767
+ACK Recebido : 765
+Enviando pacote 768
+ACK Recebido : 766
+Enviando pacote 769
+ACK Recebido : 767
+Enviando pacote 770
+ACK Recebido : 768
+Enviando pacote 771
+ACK Recebido : 769
+Enviando pacote 772
+ACK Recebido : 770
+Enviando pacote 773
+ACK Recebido : 771
+Enviando pacote 774
+ACK Recebido : 772
+Enviando pacote 775
+ACK Recebido : 773
+Enviando pacote 776
+ACK Recebido : 774
+Enviando pacote 777
+ACK Recebido : 775
+Enviando pacote 778
+ACK Recebido : 776
+Enviando pacote 779
+ACK Recebido : 777
+Enviando pacote 780
+ACK Recebido : 778
+Enviando pacote 781
+ACK Recebido : 779
+Enviando pacote 782
+ACK Recebido : 780
+Enviando pacote 783
+ACK Recebido : 781
+Enviando pacote 784
+ACK Recebido : 782
+Enviando pacote 785
+ACK Recebido : 783
+Enviando pacote 786
+ACK Recebido : 784
+Enviando pacote 787
+ACK Recebido : 785
+Enviando pacote 788
+ACK Recebido : 786
+Enviando pacote 789
+ACK Recebido : 787
+Enviando pacote 790
+ACK Recebido : 788
+Enviando pacote 791
+ACK Recebido : 789
+Enviando pacote 792
+ACK Recebido : 790
+Enviando pacote 793
+ACK Recebido : 791
+Enviando pacote 794
+ACK Recebido : 792
+Enviando pacote 795
+ACK Recebido : 793
+Enviando pacote 796
+ACK Recebido : 794
+Enviando pacote 797
+ACK Recebido : 795
+Enviando pacote 798
+ACK Recebido : 796
+Enviando pacote 799
+ACK Recebido : 797
+Enviando pacote 800
+ACK Recebido : 798
+Enviando pacote 801
+ACK Recebido : 799
+Enviando pacote 802
+ACK Recebido : 800
+Enviando pacote 803
+ACK Recebido : 801
+Enviando pacote 804
+ACK Recebido : 802
+Enviando pacote 805
+ACK Recebido : 803
+Enviando pacote 806
+ACK Recebido : 804
+Enviando pacote 807
+ACK Recebido : 805
+Enviando pacote 808
+ACK Recebido : 806
+Enviando pacote 809
+ACK Recebido : 807
+Enviando pacote 810
+ACK Recebido : 808
+Enviando pacote 811
+ACK Recebido : 809
+Enviando pacote 812
+ACK Recebido : 810
+Enviando pacote 813
+ACK Recebido : 811
+Enviando pacote 814
+ACK Recebido : 812
+Enviando pacote 815
+ACK Recebido : 813
+Enviando pacote 816
+ACK Recebido : 814
+Enviando pacote 817
+ACK Recebido : 815
+Enviando pacote 818
+ACK Recebido : 816
+Enviando pacote 819
+ACK Recebido : 817
+Enviando pacote 820
+ACK Recebido : 818
+Enviando pacote 821
+ACK Recebido : 819
+Enviando pacote 822
+ACK Recebido : 820
+Enviando pacote 823
+ACK Recebido : 821
+Enviando pacote 824
+ACK Recebido : 822
+Enviando pacote 825
+ACK Recebido : 823
+Enviando pacote 826
+ACK Recebido : 824
+Enviando pacote 827
+ACK Recebido : 825
+Enviando pacote 828
+ACK Recebido : 826
+Enviando pacote 829
+ACK Recebido : 827
+Enviando pacote 830
+ACK Recebido : 828
+Enviando pacote 831
+ACK Recebido : 829
+Enviando pacote 832
+ACK Recebido : 830
+Enviando pacote 833
+ACK Recebido : 831
+Enviando pacote 834
+ACK Recebido : 832
+Enviando pacote 835
+ACK Recebido : 833
+Enviando pacote 836
+ACK Recebido : 834
+Enviando pacote 837
+ACK Recebido : 835
+Enviando pacote 838
+ACK Recebido : 836
+Enviando pacote 839
+ACK Recebido : 837
+Enviando pacote 840
+ACK Recebido : 838
+Enviando pacote 841
+ACK Recebido : 839
+Enviando pacote 842
+ACK Recebido : 840
+Enviando pacote 843
+ACK Recebido : 841
+Enviando pacote 844
+ACK Recebido : 842
+Enviando pacote 845
+ACK Recebido : 843
+Enviando pacote 846
+ACK Recebido : 844
+Enviando pacote 847
+ACK Recebido : 845
+Enviando pacote 848
+ACK Recebido : 846
+Enviando pacote 849
+ACK Recebido : 847
+Enviando pacote 850
+ACK Recebido : 848
+Enviando pacote 851
+ACK Recebido : 849
+Enviando pacote 852
+ACK Recebido : 850
+Enviando pacote 853
+ACK Recebido : 851
+Enviando pacote 854
+ACK Recebido : 852
+Enviando pacote 855
+ACK Recebido : 853
+Enviando pacote 856
+ACK Recebido : 854
+Enviando pacote 857
+ACK Recebido : 855
+Enviando pacote 858
+ACK Recebido : 856
+Enviando pacote 859
+ACK Recebido : 857
+Enviando pacote 860
+ACK Recebido : 858
+Enviando pacote 861
+ACK Recebido : 859
+Enviando pacote 862
+ACK Recebido : 860
+Enviando pacote 863
+ACK Recebido : 861
+Enviando pacote 864
+ACK Recebido : 862
+Enviando pacote 865
+ACK Recebido : 863
+Enviando pacote 866
+ACK Recebido : 864
+Enviando pacote 867
+ACK Recebido : 865
+Enviando pacote 868
+ACK Recebido : 866
+Enviando pacote 869
+ACK Recebido : 867
+Enviando pacote 870
+ACK Recebido : 868
+Enviando pacote 871
+ACK Recebido : 869
+Enviando pacote 872
+ACK Recebido : 870
+Enviando pacote 873
+ACK Recebido : 871
+Enviando pacote 874
+ACK Recebido : 872
+Enviando pacote 875
+ACK Recebido : 873
+Enviando pacote 876
+ACK Recebido : 874
+Enviando pacote 877
+ACK Recebido : 875
+Enviando pacote 878
+ACK Recebido : 876
+Enviando pacote 879
+ACK Recebido : 877
+Enviando pacote 880
+ACK Recebido : 878
+Enviando pacote 881
+ACK Recebido : 879
+Enviando pacote 882
+ACK Recebido : 880
+Enviando pacote 883
+ACK Recebido : 881
+Enviando pacote 884
+ACK Recebido : 882
+Enviando pacote 885
+ACK Recebido : 883
+Enviando pacote 886
+ACK Recebido : 884
+Enviando pacote 887
+ACK Recebido : 885
+Enviando pacote 888
+ACK Recebido : 886
+Enviando pacote 889
+ACK Recebido : 887
+Enviando pacote 890
+ACK Recebido : 888
+Enviando pacote 891
+ACK Recebido : 889
+Enviando pacote 892
+ACK Recebido : 890
+Enviando pacote 893
+ACK Recebido : 891
+Enviando pacote 894
+ACK Recebido : 892
+Enviando pacote 895
+ACK Recebido : 893
+Enviando pacote 896
+ACK Recebido : 894
+Enviando pacote 897
+ACK Recebido : 895
+Enviando pacote 898
+ACK Recebido : 896
+Enviando pacote 899
+ACK Recebido : 897
+Enviando pacote 900
+ACK Recebido : 898
+Enviando pacote 901
+ACK Recebido : 899
+Enviando pacote 902
+ACK Recebido : 900
+Enviando pacote 903
+ACK Recebido : 901
+Enviando pacote 904
+ACK Recebido : 902
+Enviando pacote 905
+ACK Recebido : 903
+Enviando pacote 906
+ACK Recebido : 904
+Enviando pacote 907
+ACK Recebido : 905
+Enviando pacote 908
+ACK Recebido : 906
+Enviando pacote 909
+ACK Recebido : 907
+Enviando pacote 910
+ACK Recebido : 908
+Enviando pacote 911
+ACK Recebido : 909
+Enviando pacote 912
+ACK Recebido : 910
+Enviando pacote 913
+ACK Recebido : 911
+Enviando pacote 914
+ACK Recebido : 912
+Enviando pacote 915
+ACK Recebido : 913
+Enviando pacote 916
+ACK Recebido : 914
+Enviando pacote 917
+ACK Recebido : 915
+Enviando pacote 918
+ACK Recebido : 916
+Enviando pacote 919
+ACK Recebido : 917
+Enviando pacote 920
+ACK Recebido : 918
+Enviando pacote 921
+ACK Recebido : 919
+Enviando pacote 922
+ACK Recebido : 920
+Enviando pacote 923
+ACK Recebido : 921
+Enviando pacote 924
+ACK Recebido : 922
+Enviando pacote 925
+ACK Recebido : 923
+Enviando pacote 926
+ACK Recebido : 924
+Enviando pacote 927
+ACK Recebido : 925
+Enviando pacote 928
+ACK Recebido : 926
+Enviando pacote 929
+ACK Recebido : 927
+Enviando pacote 930
+ACK Recebido : 928
+Enviando pacote 931
+ACK Recebido : 929
+Enviando pacote 932
+ACK Recebido : 930
+Enviando pacote 933
+ACK Recebido : 931
+Enviando pacote 934
+ACK Recebido : 932
+Enviando pacote 935
+ACK Recebido : 933
+Enviando pacote 936
+ACK Recebido : 934
+Enviando pacote 937
+ACK Recebido : 935
+Enviando pacote 938
+ACK Recebido : 936
+Enviando pacote 939
+ACK Recebido : 937
+Enviando pacote 940
+ACK Recebido : 938
+Enviando pacote 941
+ACK Recebido : 939
+Enviando pacote 942
+ACK Recebido : 940
+Enviando pacote 943
+ACK Recebido : 941
+Enviando pacote 944
+ACK Recebido : 942
+Enviando pacote 945
+ACK Recebido : 943
+Enviando pacote 946
+ACK Recebido : 944
+Enviando pacote 947
+ACK Recebido : 945
+Enviando pacote 948
+ACK Recebido : 946
+Enviando pacote 949
+ACK Recebido : 947
+Enviando pacote 950
+ACK Recebido : 948
+Enviando pacote 951
+ACK Recebido : 949
+Enviando pacote 952
+ACK Recebido : 950
+Enviando pacote 953
+ACK Recebido : 951
+Enviando pacote 954
+ACK Recebido : 952
+Enviando pacote 955
+ACK Recebido : 953
+Enviando pacote 956
+ACK Recebido : 954
+Enviando pacote 957
+ACK Recebido : 955
+Enviando pacote 958
+ACK Recebido : 956
+Enviando pacote 959
+ACK Recebido : 957
+Enviando pacote 960
+ACK Recebido : 958
+Enviando pacote 961
+ACK Recebido : 959
+Enviando pacote 962
+ACK Recebido : 960
+Enviando pacote 963
+ACK Recebido : 961
+Enviando pacote 964
+ACK Recebido : 962
+Enviando pacote 965
+ACK Recebido : 963
+Enviando pacote 966
+ACK Recebido : 964
+Enviando pacote 967
+ACK Recebido : 965
+Enviando pacote 968
+ACK Recebido : 966
+Enviando pacote 969
+ACK Recebido : 967
+Enviando pacote 970
+ACK Recebido : 968
+Enviando pacote 971
+ACK Recebido : 969
+Enviando pacote 972
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 969
+Reenviando Pacote : 970
+Reenviando Pacote : 971
+Reenviando Pacote : 972
+Reenviando Pacote : 973
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 969
+Reenviando Pacote : 970
+Reenviando Pacote : 971
+Reenviando Pacote : 972
+Reenviando Pacote : 973
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 969
+Reenviando Pacote : 970
+Reenviando Pacote : 971
+Reenviando Pacote : 972
+Reenviando Pacote : 973
+ACK Recebido : 970
+Enviando pacote 973
+ACK Recebido : 971
+Enviando pacote 974
+ACK Recebido : 972
+Enviando pacote 975
+ACK Recebido : 973
+Enviando pacote 976
+ACK Recebido : 974
+Enviando pacote 977
+ACK Recebido : 975
+Enviando pacote 978
+ACK Recebido : 976
+Enviando pacote 979
+ACK Recebido : 977
+Enviando pacote 980
+ACK Recebido : 978
+Enviando pacote 981
+ACK Recebido : 979
+Enviando pacote 982
+ACK Recebido : 980
+Enviando pacote 983
+ACK Recebido : 981
+Enviando pacote 984
+ACK Recebido : 982
+Enviando pacote 985
+ACK Recebido : 983
+Enviando pacote 986
+ACK Recebido : 984
+Enviando pacote 987
+ACK Recebido : 985
+Enviando pacote 988
+ACK Recebido : 986
+Enviando pacote 989
+ACK Recebido : 987
+Enviando pacote 990
+ACK Recebido : 988
+Enviando pacote 991
+ACK Recebido : 989
+Enviando pacote 992
+ACK Recebido : 990
+Enviando pacote 993
+ACK Recebido : 991
+Enviando pacote 994
+ACK Recebido : 992
+Enviando pacote 995
+ACK Recebido : 993
+Enviando pacote 996
+ACK Recebido : 994
+Enviando pacote 997
+ACK Recebido : 995
+Enviando pacote 998
+ACK Recebido : 996
+Enviando pacote 999
+ACK Recebido : 997
+Enviando pacote 1000
+ACK Recebido : 998
+Enviando pacote 1001
+ACK Recebido : 999
+Enviando pacote 1002
+ACK Recebido : 1000
+Enviando pacote 1003
+ACK Recebido : 1001
+Enviando pacote 1004
+ACK Recebido : 1002
+Enviando pacote 1005
+ACK Recebido : 1003
+Enviando pacote 1006
+ACK Recebido : 1004
+Enviando pacote 1007
+ACK Recebido : 1005
+Enviando pacote 1008
+ACK Recebido : 1006
+Enviando pacote 1009
+ACK Recebido : 1007
+Enviando pacote 1010
+ACK Recebido : 1008
+Enviando pacote 1011
+ACK Recebido : 1009
+Enviando pacote 1012
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1009
+Reenviando Pacote : 1010
+Reenviando Pacote : 1011
+Reenviando Pacote : 1012
+Reenviando Pacote : 1013
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1009
+Reenviando Pacote : 1010
+Reenviando Pacote : 1011
+Reenviando Pacote : 1012
+Reenviando Pacote : 1013
+ACK Recebido : 1010
+Enviando pacote 1013
+ACK Recebido : 1011
+Enviando pacote 1014
+ACK Recebido : 1012
+Enviando pacote 1015
+ACK Recebido : 1013
+Enviando pacote 1016
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1013
+Reenviando Pacote : 1014
+Reenviando Pacote : 1015
+Reenviando Pacote : 1016
+Reenviando Pacote : 1017
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1013
+Reenviando Pacote : 1014
+Reenviando Pacote : 1015
+Reenviando Pacote : 1016
+Reenviando Pacote : 1017
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1013
+Reenviando Pacote : 1014
+Reenviando Pacote : 1015
+Reenviando Pacote : 1016
+Reenviando Pacote : 1017
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1013
+Reenviando Pacote : 1014
+Reenviando Pacote : 1015
+Reenviando Pacote : 1016
+Reenviando Pacote : 1017
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1013
+Reenviando Pacote : 1014
+Reenviando Pacote : 1015
+Reenviando Pacote : 1016
+Reenviando Pacote : 1017
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1013
+Reenviando Pacote : 1014
+Reenviando Pacote : 1015
+Reenviando Pacote : 1016
+Reenviando Pacote : 1017
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1013
+Reenviando Pacote : 1014
+Reenviando Pacote : 1015
+Reenviando Pacote : 1016
+Reenviando Pacote : 1017
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1013
+Reenviando Pacote : 1014
+Reenviando Pacote : 1015
+Reenviando Pacote : 1016
+Reenviando Pacote : 1017
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1013
+Reenviando Pacote : 1014
+Reenviando Pacote : 1015
+Reenviando Pacote : 1016
+Reenviando Pacote : 1017
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1013
+Reenviando Pacote : 1014
+Reenviando Pacote : 1015
+Reenviando Pacote : 1016
+Reenviando Pacote : 1017
+ACK Recebido : 1014
+Enviando pacote 1017
+ACK Recebido : 1015
+Enviando pacote 1018
+ACK Recebido : 1016
+Enviando pacote 1019
+ACK Recebido : 1017
+Enviando pacote 1020
+ACK Recebido : 1018
+Enviando pacote 1021
+ACK Recebido : 1019
+Enviando pacote 1022
+ACK Recebido : 1020
+Enviando pacote 1023
+ACK Recebido : 1021
+Enviando pacote 1024
+ACK Recebido : 1022
+Enviando pacote 1025
+ACK Recebido : 1023
+Enviando pacote 1026
+ACK Recebido : 1024
+Enviando pacote 1027
+ACK Recebido : 1025
+Enviando pacote 1028
+ACK Recebido : 1026
+Enviando pacote 1029
+ACK Recebido : 1027
+Enviando pacote 1030
+ACK Recebido : 1028
+Enviando pacote 1031
+ACK Recebido : 1029
+Enviando pacote 1032
+ACK Recebido : 1030
+Enviando pacote 1033
+ACK Recebido : 1031
+Enviando pacote 1034
+ACK Recebido : 1032
+Enviando pacote 1035
+ACK Recebido : 1033
+Enviando pacote 1036
+ACK Recebido : 1034
+Enviando pacote 1037
+ACK Recebido : 1035
+Enviando pacote 1038
+ACK Recebido : 1036
+Enviando pacote 1039
+ACK Recebido : 1037
+Enviando pacote 1040
+ACK Recebido : 1038
+Enviando pacote 1041
+ACK Recebido : 1039
+Enviando pacote 1042
+ACK Recebido : 1040
+Enviando pacote 1043
+ACK Recebido : 1041
+Enviando pacote 1044
+ACK Recebido : 1042
+Enviando pacote 1045
+ACK Recebido : 1043
+Enviando pacote 1046
+ACK Recebido : 1044
+Enviando pacote 1047
+ACK Recebido : 1045
+Enviando pacote 1048
+ACK Recebido : 1046
+Enviando pacote 1049
+ACK Recebido : 1047
+Enviando pacote 1050
+ACK Recebido : 1048
+Enviando pacote 1051
+ACK Recebido : 1049
+Enviando pacote 1052
+ACK Recebido : 1050
+Enviando pacote 1053
+ACK Recebido : 1051
+Enviando pacote 1054
+ACK Recebido : 1052
+Enviando pacote 1055
+ACK Recebido : 1053
+Enviando pacote 1056
+ACK Recebido : 1054
+Enviando pacote 1057
+ACK Recebido : 1055
+Enviando pacote 1058
+ACK Recebido : 1056
+Enviando pacote 1059
+ACK Recebido : 1057
+Enviando pacote 1060
+ACK Recebido : 1058
+Enviando pacote 1061
+ACK Recebido : 1059
+Enviando pacote 1062
+ACK Recebido : 1060
+Enviando pacote 1063
+ACK Recebido : 1061
+Enviando pacote 1064
+ACK Recebido : 1062
+Enviando pacote 1065
+ACK Recebido : 1063
+Enviando pacote 1066
+ACK Recebido : 1064
+Enviando pacote 1067
+ACK Recebido : 1065
+Enviando pacote 1068
+ACK Recebido : 1066
+Enviando pacote 1069
+ACK Recebido : 1067
+Enviando pacote 1070
+ACK Recebido : 1068
+Enviando pacote 1071
+ACK Recebido : 1069
+Enviando pacote 1072
+ACK Recebido : 1070
+Enviando pacote 1073
+ACK Recebido : 1071
+Enviando pacote 1074
+ACK Recebido : 1072
+Enviando pacote 1075
+ACK Recebido : 1073
+Enviando pacote 1076
+ACK Recebido : 1074
+Enviando pacote 1077
+ACK Recebido : 1075
+Enviando pacote 1078
+ACK Recebido : 1076
+Enviando pacote 1079
+ACK Recebido : 1077
+Enviando pacote 1080
+ACK Recebido : 1078
+Enviando pacote 1081
+ACK Recebido : 1079
+Enviando pacote 1082
+ACK Recebido : 1080
+Enviando pacote 1083
+ACK Recebido : 1081
+Enviando pacote 1084
+ACK Recebido : 1082
+Enviando pacote 1085
+ACK Recebido : 1083
+Enviando pacote 1086
+ACK Recebido : 1084
+Enviando pacote 1087
+ACK Recebido : 1085
+Enviando pacote 1088
+ACK Recebido : 1086
+Enviando pacote 1089
+ACK Recebido : 1087
+Enviando pacote 1090
+ACK Recebido : 1088
+Enviando pacote 1091
+ACK Recebido : 1089
+Enviando pacote 1092
+ACK Recebido : 1090
+Enviando pacote 1093
+ACK Recebido : 1091
+Enviando pacote 1094
+ACK Recebido : 1092
+Enviando pacote 1095
+ACK Recebido : 1093
+Enviando pacote 1096
+ACK Recebido : 1094
+Enviando pacote 1097
+ACK Recebido : 1095
+Enviando pacote 1098
+ACK Recebido : 1096
+Enviando pacote 1099
+ACK Recebido : 1097
+Enviando pacote 1100
+ACK Recebido : 1098
+Enviando pacote 1101
+ACK Recebido : 1099
+Enviando pacote 1102
+ACK Recebido : 1100
+Enviando pacote 1103
+ACK Recebido : 1101
+Enviando pacote 1104
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1101
+Reenviando Pacote : 1102
+Reenviando Pacote : 1103
+Reenviando Pacote : 1104
+Reenviando Pacote : 1105
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1101
+Reenviando Pacote : 1102
+Reenviando Pacote : 1103
+Reenviando Pacote : 1104
+Reenviando Pacote : 1105
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1101
+Reenviando Pacote : 1102
+Reenviando Pacote : 1103
+Reenviando Pacote : 1104
+Reenviando Pacote : 1105
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1101
+Reenviando Pacote : 1102
+Reenviando Pacote : 1103
+Reenviando Pacote : 1104
+Reenviando Pacote : 1105
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1101
+Reenviando Pacote : 1102
+Reenviando Pacote : 1103
+Reenviando Pacote : 1104
+Reenviando Pacote : 1105
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1101
+Reenviando Pacote : 1102
+Reenviando Pacote : 1103
+Reenviando Pacote : 1104
+Reenviando Pacote : 1105
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1101
+Reenviando Pacote : 1102
+Reenviando Pacote : 1103
+Reenviando Pacote : 1104
+Reenviando Pacote : 1105
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1101
+Reenviando Pacote : 1102
+Reenviando Pacote : 1103
+Reenviando Pacote : 1104
+Reenviando Pacote : 1105
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1101
+Reenviando Pacote : 1102
+Reenviando Pacote : 1103
+Reenviando Pacote : 1104
+Reenviando Pacote : 1105
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1101
+Reenviando Pacote : 1102
+Reenviando Pacote : 1103
+Reenviando Pacote : 1104
+Reenviando Pacote : 1105
+ACK Recebido : 1102
+Enviando pacote 1105
+ACK Recebido : 1103
+Enviando pacote 1106
+ACK Recebido : 1104
+Enviando pacote 1107
+ACK Recebido : 1105
+Enviando pacote 1108
+ACK Recebido : 1106
+Enviando pacote 1109
+ACK Recebido : 1107
+Enviando pacote 1110
+ACK Recebido : 1108
+Enviando pacote 1111
+ACK Recebido : 1109
+Enviando pacote 1112
+ACK Recebido : 1110
+Enviando pacote 1113
+ACK Recebido : 1111
+Enviando pacote 1114
+ACK Recebido : 1112
+Enviando pacote 1115
+ACK Recebido : 1113
+Enviando pacote 1116
+ACK Recebido : 1114
+Enviando pacote 1117
+ACK Recebido : 1115
+Enviando pacote 1118
+ACK Recebido : 1116
+Enviando pacote 1119
+ACK Recebido : 1117
+Enviando pacote 1120
+ACK Recebido : 1118
+Enviando pacote 1121
+ACK Recebido : 1119
+Enviando pacote 1122
+ACK Recebido : 1120
+Enviando pacote 1123
+ACK Recebido : 1121
+Enviando pacote 1124
+ACK Recebido : 1122
+Enviando pacote 1125
+ACK Recebido : 1123
+Enviando pacote 1126
+ACK Recebido : 1124
+Enviando pacote 1127
+ACK Recebido : 1125
+Enviando pacote 1128
+ACK Recebido : 1126
+Enviando pacote 1129
+ACK Recebido : 1127
+Enviando pacote 1130
+ACK Recebido : 1128
+Enviando pacote 1131
+ACK Recebido : 1129
+Enviando pacote 1132
+ACK Recebido : 1130
+Enviando pacote 1133
+ACK Recebido : 1131
+Enviando pacote 1134
+ACK Recebido : 1132
+Enviando pacote 1135
+ACK Recebido : 1133
+Enviando pacote 1136
+ACK Recebido : 1134
+Enviando pacote 1137
+ACK Recebido : 1135
+Enviando pacote 1138
+ACK Recebido : 1136
+Enviando pacote 1139
+ACK Recebido : 1137
+Enviando pacote 1140
+ACK Recebido : 1138
+Enviando pacote 1141
+ACK Recebido : 1139
+Enviando pacote 1142
+ACK Recebido : 1140
+Enviando pacote 1143
+ACK Recebido : 1141
+Enviando pacote 1144
+ACK Recebido : 1142
+Enviando pacote 1145
+ACK Recebido : 1143
+Enviando pacote 1146
+ACK Recebido : 1144
+Enviando pacote 1147
+ACK Recebido : 1145
+Enviando pacote 1148
+ACK Recebido : 1146
+Enviando pacote 1149
+ACK Recebido : 1147
+Enviando pacote 1150
+ACK Recebido : 1148
+Enviando pacote 1151
+ACK Recebido : 1149
+Enviando pacote 1152
+ACK Recebido : 1150
+Enviando pacote 1153
+ACK Recebido : 1151
+Enviando pacote 1154
+ACK Recebido : 1152
+Enviando pacote 1155
+ACK Recebido : 1153
+Enviando pacote 1156
+ACK Recebido : 1154
+Enviando pacote 1157
+ACK Recebido : 1155
+Enviando pacote 1158
+ACK Recebido : 1156
+Enviando pacote 1159
+ACK Recebido : 1157
+Enviando pacote 1160
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1157
+Reenviando Pacote : 1158
+Reenviando Pacote : 1159
+Reenviando Pacote : 1160
+Reenviando Pacote : 1161
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1157
+Reenviando Pacote : 1158
+Reenviando Pacote : 1159
+Reenviando Pacote : 1160
+Reenviando Pacote : 1161
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1157
+Reenviando Pacote : 1158
+Reenviando Pacote : 1159
+Reenviando Pacote : 1160
+Reenviando Pacote : 1161
+ACK Recebido : 1158
+Enviando pacote 1161
+ACK Recebido : 1159
+ACK Recebido : 1160
+ACK Recebido : 1161
+ACK Recebido : 1162

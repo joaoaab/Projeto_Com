@@ -29,7 +29,7 @@ def main():
 		elif sequenceNumber == expectedSequence:
 			ack = sequenceNumber+1
 			sendACK(ack)
-			print ("Recebido sequencia : " + str(sequenceNumber) + "Ack enviado : " + str(ack))
+			print ("Recebido sequencia : " + str(sequenceNumber) + "---- Ack enviado : " + str(ack))
 			with open("copia.txt","ab") as output:
 				output.write(data)
 			expectedSequence += 1
