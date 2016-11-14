@@ -22,9 +22,9 @@ qtdpacotes = 0
 estimatedRTT = 1
 enviados = 0
 MsgFIM = "QuitConnection"
-timeout = 0.05
+timeout = 0.03 #Cheguei a esse numero por testes , poderia calcular o rtt estimado como no slide do professor
 Sn = 0
-log = open("log.txt","w+")
+log = open("log_client.txt","w+")
 
 # Destino
 destino = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)

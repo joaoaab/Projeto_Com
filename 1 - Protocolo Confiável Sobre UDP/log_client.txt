@@ -1,4 +1,4 @@
-Começando programa, Registrar LOG,data : 11/10/16 01:17:31 
+Começando programa, Registrar LOG,data : 11/14/16 19:41:58 
 Enviando Pacote 0
 Enviando Pacote 1
 Enviando Pacote 2
@@ -817,12 +817,6 @@ ACK Recebido : 406
 Enviando pacote 409
 ACK Recebido : 407
 Enviando pacote 410
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 407
-Reenviando Pacote : 408
-Reenviando Pacote : 409
-Reenviando Pacote : 410
-Reenviando Pacote : 411
 ACK Recebido : 408
 Enviando pacote 411
 ACK Recebido : 409
@@ -1359,36 +1353,6 @@ ACK Recebido : 674
 Enviando pacote 677
 ACK Recebido : 675
 Enviando pacote 678
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 675
-Reenviando Pacote : 676
-Reenviando Pacote : 677
-Reenviando Pacote : 678
-Reenviando Pacote : 679
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 675
-Reenviando Pacote : 676
-Reenviando Pacote : 677
-Reenviando Pacote : 678
-Reenviando Pacote : 679
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 675
-Reenviando Pacote : 676
-Reenviando Pacote : 677
-Reenviando Pacote : 678
-Reenviando Pacote : 679
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 675
-Reenviando Pacote : 676
-Reenviando Pacote : 677
-Reenviando Pacote : 678
-Reenviando Pacote : 679
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 675
-Reenviando Pacote : 676
-Reenviando Pacote : 677
-Reenviando Pacote : 678
-Reenviando Pacote : 679
 ACK Recebido : 676
 Enviando pacote 679
 ACK Recebido : 677
@@ -1565,16 +1529,40 @@ ACK Recebido : 762
 Enviando pacote 765
 ACK Recebido : 763
 Enviando pacote 766
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 763
+Reenviando Pacote : 764
+Reenviando Pacote : 765
+Reenviando Pacote : 766
+Reenviando Pacote : 767
 ACK Recebido : 764
 Enviando pacote 767
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 764
+Reenviando Pacote : 765
+Reenviando Pacote : 766
+Reenviando Pacote : 767
+Reenviando Pacote : 768
 ACK Recebido : 765
 Enviando pacote 768
 ACK Recebido : 766
 Enviando pacote 769
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 766
+Reenviando Pacote : 767
+Reenviando Pacote : 768
+Reenviando Pacote : 769
+Reenviando Pacote : 770
 ACK Recebido : 767
 Enviando pacote 770
 ACK Recebido : 768
 Enviando pacote 771
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 768
+Reenviando Pacote : 769
+Reenviando Pacote : 770
+Reenviando Pacote : 771
+Reenviando Pacote : 772
 ACK Recebido : 769
 Enviando pacote 772
 ACK Recebido : 770
@@ -1677,6 +1665,12 @@ ACK Recebido : 818
 Enviando pacote 821
 ACK Recebido : 819
 Enviando pacote 822
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 819
+Reenviando Pacote : 820
+Reenviando Pacote : 821
+Reenviando Pacote : 822
+Reenviando Pacote : 823
 ACK Recebido : 820
 Enviando pacote 823
 ACK Recebido : 821
@@ -1833,20 +1827,44 @@ ACK Recebido : 896
 Enviando pacote 899
 ACK Recebido : 897
 Enviando pacote 900
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 897
+Reenviando Pacote : 898
+Reenviando Pacote : 899
+Reenviando Pacote : 900
+Reenviando Pacote : 901
 ACK Recebido : 898
 Enviando pacote 901
 ACK Recebido : 899
 Enviando pacote 902
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 899
+Reenviando Pacote : 900
+Reenviando Pacote : 901
+Reenviando Pacote : 902
+Reenviando Pacote : 903
 ACK Recebido : 900
 Enviando pacote 903
 ACK Recebido : 901
 Enviando pacote 904
 ACK Recebido : 902
 Enviando pacote 905
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 902
+Reenviando Pacote : 903
+Reenviando Pacote : 904
+Reenviando Pacote : 905
+Reenviando Pacote : 906
 ACK Recebido : 903
 Enviando pacote 906
 ACK Recebido : 904
 Enviando pacote 907
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 904
+Reenviando Pacote : 905
+Reenviando Pacote : 906
+Reenviando Pacote : 907
+Reenviando Pacote : 908
 ACK Recebido : 905
 Enviando pacote 908
 ACK Recebido : 906
@@ -1901,18 +1919,42 @@ ACK Recebido : 930
 Enviando pacote 933
 ACK Recebido : 931
 Enviando pacote 934
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 931
+Reenviando Pacote : 932
+Reenviando Pacote : 933
+Reenviando Pacote : 934
+Reenviando Pacote : 935
 ACK Recebido : 932
 Enviando pacote 935
 ACK Recebido : 933
 Enviando pacote 936
 ACK Recebido : 934
 Enviando pacote 937
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 934
+Reenviando Pacote : 935
+Reenviando Pacote : 936
+Reenviando Pacote : 937
+Reenviando Pacote : 938
 ACK Recebido : 935
 Enviando pacote 938
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 935
+Reenviando Pacote : 936
+Reenviando Pacote : 937
+Reenviando Pacote : 938
+Reenviando Pacote : 939
 ACK Recebido : 936
 Enviando pacote 939
 ACK Recebido : 937
 Enviando pacote 940
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 937
+Reenviando Pacote : 938
+Reenviando Pacote : 939
+Reenviando Pacote : 940
+Reenviando Pacote : 941
 ACK Recebido : 938
 Enviando pacote 941
 ACK Recebido : 939
@@ -1977,24 +2019,6 @@ ACK Recebido : 968
 Enviando pacote 971
 ACK Recebido : 969
 Enviando pacote 972
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 969
-Reenviando Pacote : 970
-Reenviando Pacote : 971
-Reenviando Pacote : 972
-Reenviando Pacote : 973
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 969
-Reenviando Pacote : 970
-Reenviando Pacote : 971
-Reenviando Pacote : 972
-Reenviando Pacote : 973
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 969
-Reenviando Pacote : 970
-Reenviando Pacote : 971
-Reenviando Pacote : 972
-Reenviando Pacote : 973
 ACK Recebido : 970
 Enviando pacote 973
 ACK Recebido : 971
@@ -2075,18 +2099,6 @@ ACK Recebido : 1008
 Enviando pacote 1011
 ACK Recebido : 1009
 Enviando pacote 1012
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1009
-Reenviando Pacote : 1010
-Reenviando Pacote : 1011
-Reenviando Pacote : 1012
-Reenviando Pacote : 1013
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1009
-Reenviando Pacote : 1010
-Reenviando Pacote : 1011
-Reenviando Pacote : 1012
-Reenviando Pacote : 1013
 ACK Recebido : 1010
 Enviando pacote 1013
 ACK Recebido : 1011
@@ -2095,66 +2107,6 @@ ACK Recebido : 1012
 Enviando pacote 1015
 ACK Recebido : 1013
 Enviando pacote 1016
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1013
-Reenviando Pacote : 1014
-Reenviando Pacote : 1015
-Reenviando Pacote : 1016
-Reenviando Pacote : 1017
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1013
-Reenviando Pacote : 1014
-Reenviando Pacote : 1015
-Reenviando Pacote : 1016
-Reenviando Pacote : 1017
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1013
-Reenviando Pacote : 1014
-Reenviando Pacote : 1015
-Reenviando Pacote : 1016
-Reenviando Pacote : 1017
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1013
-Reenviando Pacote : 1014
-Reenviando Pacote : 1015
-Reenviando Pacote : 1016
-Reenviando Pacote : 1017
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1013
-Reenviando Pacote : 1014
-Reenviando Pacote : 1015
-Reenviando Pacote : 1016
-Reenviando Pacote : 1017
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1013
-Reenviando Pacote : 1014
-Reenviando Pacote : 1015
-Reenviando Pacote : 1016
-Reenviando Pacote : 1017
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1013
-Reenviando Pacote : 1014
-Reenviando Pacote : 1015
-Reenviando Pacote : 1016
-Reenviando Pacote : 1017
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1013
-Reenviando Pacote : 1014
-Reenviando Pacote : 1015
-Reenviando Pacote : 1016
-Reenviando Pacote : 1017
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1013
-Reenviando Pacote : 1014
-Reenviando Pacote : 1015
-Reenviando Pacote : 1016
-Reenviando Pacote : 1017
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1013
-Reenviando Pacote : 1014
-Reenviando Pacote : 1015
-Reenviando Pacote : 1016
-Reenviando Pacote : 1017
 ACK Recebido : 1014
 Enviando pacote 1017
 ACK Recebido : 1015
@@ -2201,16 +2153,34 @@ ACK Recebido : 1035
 Enviando pacote 1038
 ACK Recebido : 1036
 Enviando pacote 1039
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1036
+Reenviando Pacote : 1037
+Reenviando Pacote : 1038
+Reenviando Pacote : 1039
+Reenviando Pacote : 1040
 ACK Recebido : 1037
 Enviando pacote 1040
 ACK Recebido : 1038
 Enviando pacote 1041
 ACK Recebido : 1039
 Enviando pacote 1042
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1039
+Reenviando Pacote : 1040
+Reenviando Pacote : 1041
+Reenviando Pacote : 1042
+Reenviando Pacote : 1043
 ACK Recebido : 1040
 Enviando pacote 1043
 ACK Recebido : 1041
 Enviando pacote 1044
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1041
+Reenviando Pacote : 1042
+Reenviando Pacote : 1043
+Reenviando Pacote : 1044
+Reenviando Pacote : 1045
 ACK Recebido : 1042
 Enviando pacote 1045
 ACK Recebido : 1043
@@ -2311,80 +2281,62 @@ ACK Recebido : 1090
 Enviando pacote 1093
 ACK Recebido : 1091
 Enviando pacote 1094
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1091
+Reenviando Pacote : 1092
+Reenviando Pacote : 1093
+Reenviando Pacote : 1094
+Reenviando Pacote : 1095
 ACK Recebido : 1092
 Enviando pacote 1095
 ACK Recebido : 1093
 Enviando pacote 1096
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1093
+Reenviando Pacote : 1094
+Reenviando Pacote : 1095
+Reenviando Pacote : 1096
+Reenviando Pacote : 1097
 ACK Recebido : 1094
 Enviando pacote 1097
 ACK Recebido : 1095
 Enviando pacote 1098
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1095
+Reenviando Pacote : 1096
+Reenviando Pacote : 1097
+Reenviando Pacote : 1098
+Reenviando Pacote : 1099
 ACK Recebido : 1096
 Enviando pacote 1099
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1096
+Reenviando Pacote : 1097
+Reenviando Pacote : 1098
+Reenviando Pacote : 1099
+Reenviando Pacote : 1100
 ACK Recebido : 1097
 Enviando pacote 1100
 ACK Recebido : 1098
 Enviando pacote 1101
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1098
+Reenviando Pacote : 1099
+Reenviando Pacote : 1100
+Reenviando Pacote : 1101
+Reenviando Pacote : 1102
 ACK Recebido : 1099
 Enviando pacote 1102
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1099
+Reenviando Pacote : 1100
+Reenviando Pacote : 1101
+Reenviando Pacote : 1102
+Reenviando Pacote : 1103
 ACK Recebido : 1100
 Enviando pacote 1103
 ACK Recebido : 1101
 Enviando pacote 1104
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1101
-Reenviando Pacote : 1102
-Reenviando Pacote : 1103
-Reenviando Pacote : 1104
-Reenviando Pacote : 1105
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1101
-Reenviando Pacote : 1102
-Reenviando Pacote : 1103
-Reenviando Pacote : 1104
-Reenviando Pacote : 1105
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1101
-Reenviando Pacote : 1102
-Reenviando Pacote : 1103
-Reenviando Pacote : 1104
-Reenviando Pacote : 1105
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1101
-Reenviando Pacote : 1102
-Reenviando Pacote : 1103
-Reenviando Pacote : 1104
-Reenviando Pacote : 1105
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1101
-Reenviando Pacote : 1102
-Reenviando Pacote : 1103
-Reenviando Pacote : 1104
-Reenviando Pacote : 1105
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1101
-Reenviando Pacote : 1102
-Reenviando Pacote : 1103
-Reenviando Pacote : 1104
-Reenviando Pacote : 1105
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1101
-Reenviando Pacote : 1102
-Reenviando Pacote : 1103
-Reenviando Pacote : 1104
-Reenviando Pacote : 1105
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1101
-Reenviando Pacote : 1102
-Reenviando Pacote : 1103
-Reenviando Pacote : 1104
-Reenviando Pacote : 1105
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1101
-Reenviando Pacote : 1102
-Reenviando Pacote : 1103
-Reenviando Pacote : 1104
-Reenviando Pacote : 1105
 Temporizador Estourou, entrando em modo de reenvio
 Reenviando Pacote : 1101
 Reenviando Pacote : 1102
@@ -2397,6 +2349,12 @@ ACK Recebido : 1103
 Enviando pacote 1106
 ACK Recebido : 1104
 Enviando pacote 1107
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 1104
+Reenviando Pacote : 1105
+Reenviando Pacote : 1106
+Reenviando Pacote : 1107
+Reenviando Pacote : 1108
 ACK Recebido : 1105
 Enviando pacote 1108
 ACK Recebido : 1106
@@ -2503,24 +2461,6 @@ ACK Recebido : 1156
 Enviando pacote 1159
 ACK Recebido : 1157
 Enviando pacote 1160
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1157
-Reenviando Pacote : 1158
-Reenviando Pacote : 1159
-Reenviando Pacote : 1160
-Reenviando Pacote : 1161
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1157
-Reenviando Pacote : 1158
-Reenviando Pacote : 1159
-Reenviando Pacote : 1160
-Reenviando Pacote : 1161
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1157
-Reenviando Pacote : 1158
-Reenviando Pacote : 1159
-Reenviando Pacote : 1160
-Reenviando Pacote : 1161
 ACK Recebido : 1158
 Enviando pacote 1161
 ACK Recebido : 1159
