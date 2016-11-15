@@ -1,0 +1,14 @@
+Pretenções para o Top Trumps / Super Trunfo
+
+1. Criar um servidor que possa receber informações dos jogadores e avaliar as jogadas, controlar rounds,checkar condição de vitória,fornecer os decks dos jogadores.
+Mas primeiramente Crie duas conexões TCP e receba uma string inicial contendo o nome do jogador daquela conexão (para criar o objeto jogador) ------ 20%
+
+2.Criar a classe jogador que fará :
+-Criar o objeto jogador
+-gerenciar o deck do jogador
+
+3.Criar um cliente para:
+-Mostrar informações das cartas(Text based)
+-Gerenciar a conexão com o servidor
+-Receber entradas e comunica-las ao servidor
+

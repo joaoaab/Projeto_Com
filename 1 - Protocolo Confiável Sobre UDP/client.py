@@ -22,7 +22,7 @@ qtdpacotes = 0
 estimatedRTT = 1
 enviados = 0
 MsgFIM = "QuitConnection"
-timeout = 0.03 #Cheguei a esse numero por testes , poderia calcular o rtt estimado como no slide do professor
+timeout = 0.001 #depende do computador / rede
 Sn = 0
 log = open("log_client.txt","w+")
 
@@ -128,7 +128,7 @@ def main():
 	#Ler o arquivo e criar as "fatias" para colocar nos pacotes
 	with open("sherlock.txt","rb") as arquivo :
 		while True:
-			fatia = arquivo.read(512)
+			fatia = arquivo.read(128)
 			if fatia:
 				conteudo.append(fatia)
 			else:
