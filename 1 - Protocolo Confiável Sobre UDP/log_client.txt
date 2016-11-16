@@ -1,4 +1,4 @@
-Começando programa, Registrar LOG,data : 11/15/16 21:43:42 
+ComeÃ§ando programa, Registrar LOG,data : Wed Nov 16 22:18:17 2016 
 Enviando Pacote 0
 Enviando Pacote 1
 Enviando Pacote 2
@@ -319,12 +319,6 @@ ACK Recebido : 157
 Enviando pacote 160
 ACK Recebido : 158
 Enviando pacote 161
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 158
-Reenviando Pacote : 159
-Reenviando Pacote : 160
-Reenviando Pacote : 161
-Reenviando Pacote : 162
 ACK Recebido : 159
 Enviando pacote 162
 ACK Recebido : 160
@@ -521,12 +515,6 @@ ACK Recebido : 255
 Enviando pacote 258
 ACK Recebido : 256
 Enviando pacote 259
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 256
-Reenviando Pacote : 257
-Reenviando Pacote : 258
-Reenviando Pacote : 259
-Reenviando Pacote : 260
 ACK Recebido : 257
 Enviando pacote 260
 ACK Recebido : 258
@@ -1333,12 +1321,6 @@ ACK Recebido : 658
 Enviando pacote 661
 ACK Recebido : 659
 Enviando pacote 662
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 659
-Reenviando Pacote : 660
-Reenviando Pacote : 661
-Reenviando Pacote : 662
-Reenviando Pacote : 663
 ACK Recebido : 660
 Enviando pacote 663
 ACK Recebido : 661
@@ -1741,12 +1723,6 @@ ACK Recebido : 859
 Enviando pacote 862
 ACK Recebido : 860
 Enviando pacote 863
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 860
-Reenviando Pacote : 861
-Reenviando Pacote : 862
-Reenviando Pacote : 863
-Reenviando Pacote : 864
 ACK Recebido : 861
 Enviando pacote 864
 ACK Recebido : 862
@@ -2653,12 +2629,6 @@ ACK Recebido : 1312
 Enviando pacote 1315
 ACK Recebido : 1313
 Enviando pacote 1316
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1313
-Reenviando Pacote : 1314
-Reenviando Pacote : 1315
-Reenviando Pacote : 1316
-Reenviando Pacote : 1317
 ACK Recebido : 1314
 Enviando pacote 1317
 ACK Recebido : 1315
@@ -2699,12 +2669,6 @@ ACK Recebido : 1332
 Enviando pacote 1335
 ACK Recebido : 1333
 Enviando pacote 1336
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1333
-Reenviando Pacote : 1334
-Reenviando Pacote : 1335
-Reenviando Pacote : 1336
-Reenviando Pacote : 1337
 ACK Recebido : 1334
 Enviando pacote 1337
 ACK Recebido : 1335
@@ -2865,12 +2829,6 @@ ACK Recebido : 1412
 Enviando pacote 1415
 ACK Recebido : 1413
 Enviando pacote 1416
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1413
-Reenviando Pacote : 1414
-Reenviando Pacote : 1415
-Reenviando Pacote : 1416
-Reenviando Pacote : 1417
 ACK Recebido : 1414
 Enviando pacote 1417
 ACK Recebido : 1415
@@ -3141,20 +3099,8 @@ ACK Recebido : 1547
 Enviando pacote 1550
 ACK Recebido : 1548
 Enviando pacote 1551
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1548
-Reenviando Pacote : 1549
-Reenviando Pacote : 1550
-Reenviando Pacote : 1551
-Reenviando Pacote : 1552
 ACK Recebido : 1549
 Enviando pacote 1552
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1549
-Reenviando Pacote : 1550
-Reenviando Pacote : 1551
-Reenviando Pacote : 1552
-Reenviando Pacote : 1553
 ACK Recebido : 1550
 Enviando pacote 1553
 ACK Recebido : 1551
@@ -3215,12 +3161,6 @@ ACK Recebido : 1578
 Enviando pacote 1581
 ACK Recebido : 1579
 Enviando pacote 1582
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1579
-Reenviando Pacote : 1580
-Reenviando Pacote : 1581
-Reenviando Pacote : 1582
-Reenviando Pacote : 1583
 ACK Recebido : 1580
 Enviando pacote 1583
 ACK Recebido : 1581
@@ -3597,12 +3537,6 @@ ACK Recebido : 1766
 Enviando pacote 1769
 ACK Recebido : 1767
 Enviando pacote 1770
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1767
-Reenviando Pacote : 1768
-Reenviando Pacote : 1769
-Reenviando Pacote : 1770
-Reenviando Pacote : 1771
 ACK Recebido : 1768
 Enviando pacote 1771
 ACK Recebido : 1769
@@ -3775,12 +3709,6 @@ ACK Recebido : 1852
 Enviando pacote 1855
 ACK Recebido : 1853
 Enviando pacote 1856
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1853
-Reenviando Pacote : 1854
-Reenviando Pacote : 1855
-Reenviando Pacote : 1856
-Reenviando Pacote : 1857
 ACK Recebido : 1854
 Enviando pacote 1857
 ACK Recebido : 1855
@@ -3849,12 +3777,6 @@ ACK Recebido : 1886
 Enviando pacote 1889
 ACK Recebido : 1887
 Enviando pacote 1890
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1887
-Reenviando Pacote : 1888
-Reenviando Pacote : 1889
-Reenviando Pacote : 1890
-Reenviando Pacote : 1891
 ACK Recebido : 1888
 Enviando pacote 1891
 ACK Recebido : 1889
@@ -3911,12 +3833,6 @@ ACK Recebido : 1914
 Enviando pacote 1917
 ACK Recebido : 1915
 Enviando pacote 1918
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1915
-Reenviando Pacote : 1916
-Reenviando Pacote : 1917
-Reenviando Pacote : 1918
-Reenviando Pacote : 1919
 ACK Recebido : 1916
 Enviando pacote 1919
 ACK Recebido : 1917
@@ -4793,12 +4709,6 @@ ACK Recebido : 2352
 Enviando pacote 2355
 ACK Recebido : 2353
 Enviando pacote 2356
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 2353
-Reenviando Pacote : 2354
-Reenviando Pacote : 2355
-Reenviando Pacote : 2356
-Reenviando Pacote : 2357
 ACK Recebido : 2354
 Enviando pacote 2357
 ACK Recebido : 2355
@@ -4871,12 +4781,6 @@ ACK Recebido : 2388
 Enviando pacote 2391
 ACK Recebido : 2389
 Enviando pacote 2392
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 2389
-Reenviando Pacote : 2390
-Reenviando Pacote : 2391
-Reenviando Pacote : 2392
-Reenviando Pacote : 2393
 ACK Recebido : 2390
 Enviando pacote 2393
 ACK Recebido : 2391
@@ -4937,12 +4841,6 @@ ACK Recebido : 2418
 Enviando pacote 2421
 ACK Recebido : 2419
 Enviando pacote 2422
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 2419
-Reenviando Pacote : 2420
-Reenviando Pacote : 2421
-Reenviando Pacote : 2422
-Reenviando Pacote : 2423
 ACK Recebido : 2420
 Enviando pacote 2423
 ACK Recebido : 2421
@@ -6035,12 +5933,6 @@ ACK Recebido : 2964
 Enviando pacote 2967
 ACK Recebido : 2965
 Enviando pacote 2968
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 2965
-Reenviando Pacote : 2966
-Reenviando Pacote : 2967
-Reenviando Pacote : 2968
-Reenviando Pacote : 2969
 ACK Recebido : 2966
 Enviando pacote 2969
 ACK Recebido : 2967
@@ -6181,12 +6073,6 @@ ACK Recebido : 3034
 Enviando pacote 3037
 ACK Recebido : 3035
 Enviando pacote 3038
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3035
-Reenviando Pacote : 3036
-Reenviando Pacote : 3037
-Reenviando Pacote : 3038
-Reenviando Pacote : 3039
 ACK Recebido : 3036
 Enviando pacote 3039
 ACK Recebido : 3037
@@ -6575,12 +6461,6 @@ ACK Recebido : 3228
 Enviando pacote 3231
 ACK Recebido : 3229
 Enviando pacote 3232
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3229
-Reenviando Pacote : 3230
-Reenviando Pacote : 3231
-Reenviando Pacote : 3232
-Reenviando Pacote : 3233
 ACK Recebido : 3230
 Enviando pacote 3233
 ACK Recebido : 3231
@@ -6701,12 +6581,6 @@ ACK Recebido : 3288
 Enviando pacote 3291
 ACK Recebido : 3289
 Enviando pacote 3292
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3289
-Reenviando Pacote : 3290
-Reenviando Pacote : 3291
-Reenviando Pacote : 3292
-Reenviando Pacote : 3293
 ACK Recebido : 3290
 Enviando pacote 3293
 ACK Recebido : 3291
@@ -6959,12 +6833,6 @@ ACK Recebido : 3414
 Enviando pacote 3417
 ACK Recebido : 3415
 Enviando pacote 3418
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3415
-Reenviando Pacote : 3416
-Reenviando Pacote : 3417
-Reenviando Pacote : 3418
-Reenviando Pacote : 3419
 ACK Recebido : 3416
 Enviando pacote 3419
 ACK Recebido : 3417
@@ -6981,420 +6849,6 @@ ACK Recebido : 3422
 Enviando pacote 3425
 ACK Recebido : 3423
 Enviando pacote 3426
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3423
-Reenviando Pacote : 3424
-Reenviando Pacote : 3425
-Reenviando Pacote : 3426
-Reenviando Pacote : 3427
 ACK Recebido : 3424
 Enviando pacote 3427
 ACK Recebido : 3425
@@ -7405,12 +6859,6 @@ ACK Recebido : 3427
 Enviando pacote 3430
 ACK Recebido : 3428
 Enviando pacote 3431
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3428
-Reenviando Pacote : 3429
-Reenviando Pacote : 3430
-Reenviando Pacote : 3431
-Reenviando Pacote : 3432
 ACK Recebido : 3429
 Enviando pacote 3432
 ACK Recebido : 3430
@@ -7775,12 +7223,6 @@ ACK Recebido : 3609
 Enviando pacote 3612
 ACK Recebido : 3610
 Enviando pacote 3613
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3610
-Reenviando Pacote : 3611
-Reenviando Pacote : 3612
-Reenviando Pacote : 3613
-Reenviando Pacote : 3614
 ACK Recebido : 3611
 Enviando pacote 3614
 ACK Recebido : 3612
@@ -8145,12 +7587,6 @@ ACK Recebido : 3791
 Enviando pacote 3794
 ACK Recebido : 3792
 Enviando pacote 3795
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 3792
-Reenviando Pacote : 3793
-Reenviando Pacote : 3794
-Reenviando Pacote : 3795
-Reenviando Pacote : 3796
 ACK Recebido : 3793
 Enviando pacote 3796
 ACK Recebido : 3794
@@ -9385,12 +8821,6 @@ ACK Recebido : 4408
 Enviando pacote 4411
 ACK Recebido : 4409
 Enviando pacote 4412
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 4409
-Reenviando Pacote : 4410
-Reenviando Pacote : 4411
-Reenviando Pacote : 4412
-Reenviando Pacote : 4413
 ACK Recebido : 4410
 Enviando pacote 4413
 ACK Recebido : 4411
@@ -9445,12 +8875,6 @@ ACK Recebido : 4435
 Enviando pacote 4438
 ACK Recebido : 4436
 Enviando pacote 4439
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 4436
-Reenviando Pacote : 4437
-Reenviando Pacote : 4438
-Reenviando Pacote : 4439
-Reenviando Pacote : 4440
 ACK Recebido : 4437
 Enviando pacote 4440
 ACK Recebido : 4438
@@ -9664,214 +9088,6 @@ Enviando pacote 4544
 ACK Recebido : 4542
 Enviando pacote 4545
 ACK Recebido : 4543
-Enviando pacote 4546
 ACK Recebido : 4544
-Enviando pacote 4547
 ACK Recebido : 4545
-Enviando pacote 4548
 ACK Recebido : 4546
-Enviando pacote 4549
-ACK Recebido : 4547
-Enviando pacote 4550
-ACK Recebido : 4548
-Enviando pacote 4551
-ACK Recebido : 4549
-Enviando pacote 4552
-ACK Recebido : 4550
-Enviando pacote 4553
-ACK Recebido : 4551
-Enviando pacote 4554
-ACK Recebido : 4552
-Enviando pacote 4555
-ACK Recebido : 4553
-Enviando pacote 4556
-ACK Recebido : 4554
-Enviando pacote 4557
-ACK Recebido : 4555
-Enviando pacote 4558
-ACK Recebido : 4556
-Enviando pacote 4559
-ACK Recebido : 4557
-Enviando pacote 4560
-ACK Recebido : 4558
-Enviando pacote 4561
-ACK Recebido : 4559
-Enviando pacote 4562
-ACK Recebido : 4560
-Enviando pacote 4563
-ACK Recebido : 4561
-Enviando pacote 4564
-ACK Recebido : 4562
-Enviando pacote 4565
-ACK Recebido : 4563
-Enviando pacote 4566
-ACK Recebido : 4564
-Enviando pacote 4567
-ACK Recebido : 4565
-Enviando pacote 4568
-ACK Recebido : 4566
-Enviando pacote 4569
-ACK Recebido : 4567
-Enviando pacote 4570
-ACK Recebido : 4568
-Enviando pacote 4571
-ACK Recebido : 4569
-Enviando pacote 4572
-ACK Recebido : 4570
-Enviando pacote 4573
-ACK Recebido : 4571
-Enviando pacote 4574
-ACK Recebido : 4572
-Enviando pacote 4575
-ACK Recebido : 4573
-Enviando pacote 4576
-ACK Recebido : 4574
-Enviando pacote 4577
-ACK Recebido : 4575
-Enviando pacote 4578
-ACK Recebido : 4576
-Enviando pacote 4579
-ACK Recebido : 4577
-Enviando pacote 4580
-ACK Recebido : 4578
-Enviando pacote 4581
-ACK Recebido : 4579
-Enviando pacote 4582
-ACK Recebido : 4580
-Enviando pacote 4583
-ACK Recebido : 4581
-Enviando pacote 4584
-ACK Recebido : 4582
-Enviando pacote 4585
-ACK Recebido : 4583
-Enviando pacote 4586
-ACK Recebido : 4584
-Enviando pacote 4587
-ACK Recebido : 4585
-Enviando pacote 4588
-ACK Recebido : 4586
-Enviando pacote 4589
-ACK Recebido : 4587
-Enviando pacote 4590
-ACK Recebido : 4588
-Enviando pacote 4591
-ACK Recebido : 4589
-Enviando pacote 4592
-ACK Recebido : 4590
-Enviando pacote 4593
-ACK Recebido : 4591
-Enviando pacote 4594
-ACK Recebido : 4592
-Enviando pacote 4595
-ACK Recebido : 4593
-Enviando pacote 4596
-ACK Recebido : 4594
-Enviando pacote 4597
-ACK Recebido : 4595
-Enviando pacote 4598
-ACK Recebido : 4596
-Enviando pacote 4599
-ACK Recebido : 4597
-Enviando pacote 4600
-ACK Recebido : 4598
-Enviando pacote 4601
-ACK Recebido : 4599
-Enviando pacote 4602
-ACK Recebido : 4600
-Enviando pacote 4603
-ACK Recebido : 4601
-Enviando pacote 4604
-ACK Recebido : 4602
-Enviando pacote 4605
-ACK Recebido : 4603
-Enviando pacote 4606
-ACK Recebido : 4604
-Enviando pacote 4607
-ACK Recebido : 4605
-Enviando pacote 4608
-ACK Recebido : 4606
-Enviando pacote 4609
-ACK Recebido : 4607
-Enviando pacote 4610
-ACK Recebido : 4608
-Enviando pacote 4611
-ACK Recebido : 4609
-Enviando pacote 4612
-ACK Recebido : 4610
-Enviando pacote 4613
-ACK Recebido : 4611
-Enviando pacote 4614
-ACK Recebido : 4612
-Enviando pacote 4615
-ACK Recebido : 4613
-Enviando pacote 4616
-ACK Recebido : 4614
-Enviando pacote 4617
-ACK Recebido : 4615
-Enviando pacote 4618
-ACK Recebido : 4616
-Enviando pacote 4619
-ACK Recebido : 4617
-Enviando pacote 4620
-ACK Recebido : 4618
-Enviando pacote 4621
-ACK Recebido : 4619
-Enviando pacote 4622
-ACK Recebido : 4620
-Enviando pacote 4623
-ACK Recebido : 4621
-Enviando pacote 4624
-ACK Recebido : 4622
-Enviando pacote 4625
-ACK Recebido : 4623
-Enviando pacote 4626
-ACK Recebido : 4624
-Enviando pacote 4627
-ACK Recebido : 4625
-Enviando pacote 4628
-ACK Recebido : 4626
-Enviando pacote 4629
-ACK Recebido : 4627
-Enviando pacote 4630
-ACK Recebido : 4628
-Enviando pacote 4631
-ACK Recebido : 4629
-Enviando pacote 4632
-ACK Recebido : 4630
-Enviando pacote 4633
-ACK Recebido : 4631
-Enviando pacote 4634
-ACK Recebido : 4632
-Enviando pacote 4635
-ACK Recebido : 4633
-Enviando pacote 4636
-ACK Recebido : 4634
-Enviando pacote 4637
-ACK Recebido : 4635
-Enviando pacote 4638
-ACK Recebido : 4636
-Enviando pacote 4639
-ACK Recebido : 4637
-Enviando pacote 4640
-ACK Recebido : 4638
-Enviando pacote 4641
-ACK Recebido : 4639
-Enviando pacote 4642
-ACK Recebido : 4640
-Enviando pacote 4643
-ACK Recebido : 4641
-Enviando pacote 4644
-ACK Recebido : 4642
-Enviando pacote 4645
-ACK Recebido : 4643
-Enviando pacote 4646
-ACK Recebido : 4644
-Enviando pacote 4647
-ACK Recebido : 4645
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 4645
-Reenviando Pacote : 4646
-Reenviando Pacote : 4647
-ACK Recebido : 4646
-ACK Recebido : 4647
-ACK Recebido : 4648

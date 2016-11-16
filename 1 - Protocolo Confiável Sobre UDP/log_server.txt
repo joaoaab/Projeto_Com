@@ -1,4 +1,4 @@
-Iniciar Log, Data : 11/15/16 21:43:41
+Iniciar Log, Data : Wed Nov 16 22:18:08 2016
 Recebido sequencia : 0---- Ack enviado : 1
 Recebido sequencia : 1---- Ack enviado : 2
 Recebido sequencia : 2---- Ack enviado : 3
@@ -161,12 +161,7 @@ Recebido sequencia : 158---- Ack enviado : 159
 Recebido sequencia : 159---- Ack enviado : 160
 Recebido sequencia : 160---- Ack enviado : 161
 Recebido sequencia : 161---- Ack enviado : 162
-Recebido numero de sequencia fora de ordem !! Sn = 158
-Recebido numero de sequencia fora de ordem !! Sn = 159
-Recebido numero de sequencia fora de ordem !! Sn = 160
-Recebido numero de sequencia fora de ordem !! Sn = 161
 Recebido sequencia : 162---- Ack enviado : 163
-Recebido numero de sequencia fora de ordem !! Sn = 162
 Recebido sequencia : 163---- Ack enviado : 164
 Recebido sequencia : 164---- Ack enviado : 165
 Recebido sequencia : 165---- Ack enviado : 166
@@ -264,12 +259,7 @@ Recebido sequencia : 256---- Ack enviado : 257
 Recebido sequencia : 257---- Ack enviado : 258
 Recebido sequencia : 258---- Ack enviado : 259
 Recebido sequencia : 259---- Ack enviado : 260
-Recebido numero de sequencia fora de ordem !! Sn = 256
-Recebido numero de sequencia fora de ordem !! Sn = 257
-Recebido numero de sequencia fora de ordem !! Sn = 258
-Recebido numero de sequencia fora de ordem !! Sn = 259
 Recebido sequencia : 260---- Ack enviado : 261
-Recebido numero de sequencia fora de ordem !! Sn = 260
 Recebido sequencia : 261---- Ack enviado : 262
 Recebido sequencia : 262---- Ack enviado : 263
 Recebido sequencia : 263---- Ack enviado : 264
@@ -672,12 +662,7 @@ Recebido sequencia : 659---- Ack enviado : 660
 Recebido sequencia : 660---- Ack enviado : 661
 Recebido sequencia : 661---- Ack enviado : 662
 Recebido sequencia : 662---- Ack enviado : 663
-Recebido numero de sequencia fora de ordem !! Sn = 659
-Recebido numero de sequencia fora de ordem !! Sn = 660
-Recebido numero de sequencia fora de ordem !! Sn = 661
-Recebido numero de sequencia fora de ordem !! Sn = 662
 Recebido sequencia : 663---- Ack enviado : 664
-Recebido numero de sequencia fora de ordem !! Sn = 663
 Recebido sequencia : 664---- Ack enviado : 665
 Recebido sequencia : 665---- Ack enviado : 666
 Recebido sequencia : 666---- Ack enviado : 667
@@ -878,12 +863,7 @@ Recebido sequencia : 860---- Ack enviado : 861
 Recebido sequencia : 861---- Ack enviado : 862
 Recebido sequencia : 862---- Ack enviado : 863
 Recebido sequencia : 863---- Ack enviado : 864
-Recebido numero de sequencia fora de ordem !! Sn = 860
-Recebido numero de sequencia fora de ordem !! Sn = 861
-Recebido numero de sequencia fora de ordem !! Sn = 862
-Recebido numero de sequencia fora de ordem !! Sn = 863
 Recebido sequencia : 864---- Ack enviado : 865
-Recebido numero de sequencia fora de ordem !! Sn = 864
 Recebido sequencia : 865---- Ack enviado : 866
 Recebido sequencia : 866---- Ack enviado : 867
 Recebido sequencia : 867---- Ack enviado : 868
@@ -1336,12 +1316,7 @@ Recebido sequencia : 1313---- Ack enviado : 1314
 Recebido sequencia : 1314---- Ack enviado : 1315
 Recebido sequencia : 1315---- Ack enviado : 1316
 Recebido sequencia : 1316---- Ack enviado : 1317
-Recebido numero de sequencia fora de ordem !! Sn = 1313
-Recebido numero de sequencia fora de ordem !! Sn = 1314
-Recebido numero de sequencia fora de ordem !! Sn = 1315
-Recebido numero de sequencia fora de ordem !! Sn = 1316
 Recebido sequencia : 1317---- Ack enviado : 1318
-Recebido numero de sequencia fora de ordem !! Sn = 1317
 Recebido sequencia : 1318---- Ack enviado : 1319
 Recebido sequencia : 1319---- Ack enviado : 1320
 Recebido sequencia : 1320---- Ack enviado : 1321
@@ -1361,12 +1336,7 @@ Recebido sequencia : 1333---- Ack enviado : 1334
 Recebido sequencia : 1334---- Ack enviado : 1335
 Recebido sequencia : 1335---- Ack enviado : 1336
 Recebido sequencia : 1336---- Ack enviado : 1337
-Recebido numero de sequencia fora de ordem !! Sn = 1333
-Recebido numero de sequencia fora de ordem !! Sn = 1334
-Recebido numero de sequencia fora de ordem !! Sn = 1335
-Recebido numero de sequencia fora de ordem !! Sn = 1336
 Recebido sequencia : 1337---- Ack enviado : 1338
-Recebido numero de sequencia fora de ordem !! Sn = 1337
 Recebido sequencia : 1338---- Ack enviado : 1339
 Recebido sequencia : 1339---- Ack enviado : 1340
 Recebido sequencia : 1340---- Ack enviado : 1341
@@ -1446,12 +1416,7 @@ Recebido sequencia : 1413---- Ack enviado : 1414
 Recebido sequencia : 1414---- Ack enviado : 1415
 Recebido sequencia : 1415---- Ack enviado : 1416
 Recebido sequencia : 1416---- Ack enviado : 1417
-Recebido numero de sequencia fora de ordem !! Sn = 1413
-Recebido numero de sequencia fora de ordem !! Sn = 1414
-Recebido numero de sequencia fora de ordem !! Sn = 1415
-Recebido numero de sequencia fora de ordem !! Sn = 1416
 Recebido sequencia : 1417---- Ack enviado : 1418
-Recebido numero de sequencia fora de ordem !! Sn = 1417
 Recebido sequencia : 1418---- Ack enviado : 1419
 Recebido sequencia : 1419---- Ack enviado : 1420
 Recebido sequencia : 1420---- Ack enviado : 1421
@@ -1586,18 +1551,8 @@ Recebido sequencia : 1548---- Ack enviado : 1549
 Recebido sequencia : 1549---- Ack enviado : 1550
 Recebido sequencia : 1550---- Ack enviado : 1551
 Recebido sequencia : 1551---- Ack enviado : 1552
-Recebido numero de sequencia fora de ordem !! Sn = 1548
-Recebido numero de sequencia fora de ordem !! Sn = 1549
-Recebido numero de sequencia fora de ordem !! Sn = 1550
-Recebido numero de sequencia fora de ordem !! Sn = 1551
 Recebido sequencia : 1552---- Ack enviado : 1553
-Recebido numero de sequencia fora de ordem !! Sn = 1552
-Recebido numero de sequencia fora de ordem !! Sn = 1549
-Recebido numero de sequencia fora de ordem !! Sn = 1550
-Recebido numero de sequencia fora de ordem !! Sn = 1551
-Recebido numero de sequencia fora de ordem !! Sn = 1552
 Recebido sequencia : 1553---- Ack enviado : 1554
-Recebido numero de sequencia fora de ordem !! Sn = 1553
 Recebido sequencia : 1554---- Ack enviado : 1555
 Recebido sequencia : 1555---- Ack enviado : 1556
 Recebido sequencia : 1556---- Ack enviado : 1557
@@ -1627,12 +1582,7 @@ Recebido sequencia : 1579---- Ack enviado : 1580
 Recebido sequencia : 1580---- Ack enviado : 1581
 Recebido sequencia : 1581---- Ack enviado : 1582
 Recebido sequencia : 1582---- Ack enviado : 1583
-Recebido numero de sequencia fora de ordem !! Sn = 1579
-Recebido numero de sequencia fora de ordem !! Sn = 1580
-Recebido numero de sequencia fora de ordem !! Sn = 1581
-Recebido numero de sequencia fora de ordem !! Sn = 1582
 Recebido sequencia : 1583---- Ack enviado : 1584
-Recebido numero de sequencia fora de ordem !! Sn = 1583
 Recebido sequencia : 1584---- Ack enviado : 1585
 Recebido sequencia : 1585---- Ack enviado : 1586
 Recebido sequencia : 1586---- Ack enviado : 1587
@@ -1820,12 +1770,7 @@ Recebido sequencia : 1767---- Ack enviado : 1768
 Recebido sequencia : 1768---- Ack enviado : 1769
 Recebido sequencia : 1769---- Ack enviado : 1770
 Recebido sequencia : 1770---- Ack enviado : 1771
-Recebido numero de sequencia fora de ordem !! Sn = 1767
-Recebido numero de sequencia fora de ordem !! Sn = 1768
-Recebido numero de sequencia fora de ordem !! Sn = 1769
-Recebido numero de sequencia fora de ordem !! Sn = 1770
 Recebido sequencia : 1771---- Ack enviado : 1772
-Recebido numero de sequencia fora de ordem !! Sn = 1771
 Recebido sequencia : 1772---- Ack enviado : 1773
 Recebido sequencia : 1773---- Ack enviado : 1774
 Recebido sequencia : 1774---- Ack enviado : 1775
@@ -1911,12 +1856,7 @@ Recebido sequencia : 1853---- Ack enviado : 1854
 Recebido sequencia : 1854---- Ack enviado : 1855
 Recebido sequencia : 1855---- Ack enviado : 1856
 Recebido sequencia : 1856---- Ack enviado : 1857
-Recebido numero de sequencia fora de ordem !! Sn = 1853
-Recebido numero de sequencia fora de ordem !! Sn = 1854
-Recebido numero de sequencia fora de ordem !! Sn = 1855
-Recebido numero de sequencia fora de ordem !! Sn = 1856
 Recebido sequencia : 1857---- Ack enviado : 1858
-Recebido numero de sequencia fora de ordem !! Sn = 1857
 Recebido sequencia : 1858---- Ack enviado : 1859
 Recebido sequencia : 1859---- Ack enviado : 1860
 Recebido sequencia : 1860---- Ack enviado : 1861
@@ -1950,12 +1890,7 @@ Recebido sequencia : 1887---- Ack enviado : 1888
 Recebido sequencia : 1888---- Ack enviado : 1889
 Recebido sequencia : 1889---- Ack enviado : 1890
 Recebido sequencia : 1890---- Ack enviado : 1891
-Recebido numero de sequencia fora de ordem !! Sn = 1887
-Recebido numero de sequencia fora de ordem !! Sn = 1888
-Recebido numero de sequencia fora de ordem !! Sn = 1889
-Recebido numero de sequencia fora de ordem !! Sn = 1890
 Recebido sequencia : 1891---- Ack enviado : 1892
-Recebido numero de sequencia fora de ordem !! Sn = 1891
 Recebido sequencia : 1892---- Ack enviado : 1893
 Recebido sequencia : 1893---- Ack enviado : 1894
 Recebido sequencia : 1894---- Ack enviado : 1895
@@ -1983,12 +1918,7 @@ Recebido sequencia : 1915---- Ack enviado : 1916
 Recebido sequencia : 1916---- Ack enviado : 1917
 Recebido sequencia : 1917---- Ack enviado : 1918
 Recebido sequencia : 1918---- Ack enviado : 1919
-Recebido numero de sequencia fora de ordem !! Sn = 1915
-Recebido numero de sequencia fora de ordem !! Sn = 1916
-Recebido numero de sequencia fora de ordem !! Sn = 1917
-Recebido numero de sequencia fora de ordem !! Sn = 1918
 Recebido sequencia : 1919---- Ack enviado : 1920
-Recebido numero de sequencia fora de ordem !! Sn = 1919
 Recebido sequencia : 1920---- Ack enviado : 1921
 Recebido sequencia : 1921---- Ack enviado : 1922
 Recebido sequencia : 1922---- Ack enviado : 1923
@@ -2426,12 +2356,7 @@ Recebido sequencia : 2353---- Ack enviado : 2354
 Recebido sequencia : 2354---- Ack enviado : 2355
 Recebido sequencia : 2355---- Ack enviado : 2356
 Recebido sequencia : 2356---- Ack enviado : 2357
-Recebido numero de sequencia fora de ordem !! Sn = 2353
-Recebido numero de sequencia fora de ordem !! Sn = 2354
-Recebido numero de sequencia fora de ordem !! Sn = 2355
-Recebido numero de sequencia fora de ordem !! Sn = 2356
 Recebido sequencia : 2357---- Ack enviado : 2358
-Recebido numero de sequencia fora de ordem !! Sn = 2357
 Recebido sequencia : 2358---- Ack enviado : 2359
 Recebido sequencia : 2359---- Ack enviado : 2360
 Recebido sequencia : 2360---- Ack enviado : 2361
@@ -2467,12 +2392,7 @@ Recebido sequencia : 2389---- Ack enviado : 2390
 Recebido sequencia : 2390---- Ack enviado : 2391
 Recebido sequencia : 2391---- Ack enviado : 2392
 Recebido sequencia : 2392---- Ack enviado : 2393
-Recebido numero de sequencia fora de ordem !! Sn = 2389
-Recebido numero de sequencia fora de ordem !! Sn = 2390
-Recebido numero de sequencia fora de ordem !! Sn = 2391
-Recebido numero de sequencia fora de ordem !! Sn = 2392
 Recebido sequencia : 2393---- Ack enviado : 2394
-Recebido numero de sequencia fora de ordem !! Sn = 2393
 Recebido sequencia : 2394---- Ack enviado : 2395
 Recebido sequencia : 2395---- Ack enviado : 2396
 Recebido sequencia : 2396---- Ack enviado : 2397
@@ -2502,12 +2422,7 @@ Recebido sequencia : 2419---- Ack enviado : 2420
 Recebido sequencia : 2420---- Ack enviado : 2421
 Recebido sequencia : 2421---- Ack enviado : 2422
 Recebido sequencia : 2422---- Ack enviado : 2423
-Recebido numero de sequencia fora de ordem !! Sn = 2419
-Recebido numero de sequencia fora de ordem !! Sn = 2420
-Recebido numero de sequencia fora de ordem !! Sn = 2421
-Recebido numero de sequencia fora de ordem !! Sn = 2422
 Recebido sequencia : 2423---- Ack enviado : 2424
-Recebido numero de sequencia fora de ordem !! Sn = 2423
 Recebido sequencia : 2424---- Ack enviado : 2425
 Recebido sequencia : 2425---- Ack enviado : 2426
 Recebido sequencia : 2426---- Ack enviado : 2427
@@ -3053,12 +2968,7 @@ Recebido sequencia : 2965---- Ack enviado : 2966
 Recebido sequencia : 2966---- Ack enviado : 2967
 Recebido sequencia : 2967---- Ack enviado : 2968
 Recebido sequencia : 2968---- Ack enviado : 2969
-Recebido numero de sequencia fora de ordem !! Sn = 2965
-Recebido numero de sequencia fora de ordem !! Sn = 2966
-Recebido numero de sequencia fora de ordem !! Sn = 2967
-Recebido numero de sequencia fora de ordem !! Sn = 2968
 Recebido sequencia : 2969---- Ack enviado : 2970
-Recebido numero de sequencia fora de ordem !! Sn = 2969
 Recebido sequencia : 2970---- Ack enviado : 2971
 Recebido sequencia : 2971---- Ack enviado : 2972
 Recebido sequencia : 2972---- Ack enviado : 2973
@@ -3128,12 +3038,7 @@ Recebido sequencia : 3035---- Ack enviado : 3036
 Recebido sequencia : 3036---- Ack enviado : 3037
 Recebido sequencia : 3037---- Ack enviado : 3038
 Recebido sequencia : 3038---- Ack enviado : 3039
-Recebido numero de sequencia fora de ordem !! Sn = 3035
-Recebido numero de sequencia fora de ordem !! Sn = 3036
-Recebido numero de sequencia fora de ordem !! Sn = 3037
-Recebido numero de sequencia fora de ordem !! Sn = 3038
 Recebido sequencia : 3039---- Ack enviado : 3040
-Recebido numero de sequencia fora de ordem !! Sn = 3039
 Recebido sequencia : 3040---- Ack enviado : 3041
 Recebido sequencia : 3041---- Ack enviado : 3042
 Recebido sequencia : 3042---- Ack enviado : 3043
@@ -3327,12 +3232,7 @@ Recebido sequencia : 3229---- Ack enviado : 3230
 Recebido sequencia : 3230---- Ack enviado : 3231
 Recebido sequencia : 3231---- Ack enviado : 3232
 Recebido sequencia : 3232---- Ack enviado : 3233
-Recebido numero de sequencia fora de ordem !! Sn = 3229
-Recebido numero de sequencia fora de ordem !! Sn = 3230
-Recebido numero de sequencia fora de ordem !! Sn = 3231
-Recebido numero de sequencia fora de ordem !! Sn = 3232
 Recebido sequencia : 3233---- Ack enviado : 3234
-Recebido numero de sequencia fora de ordem !! Sn = 3233
 Recebido sequencia : 3234---- Ack enviado : 3235
 Recebido sequencia : 3235---- Ack enviado : 3236
 Recebido sequencia : 3236---- Ack enviado : 3237
@@ -3392,12 +3292,7 @@ Recebido sequencia : 3289---- Ack enviado : 3290
 Recebido sequencia : 3290---- Ack enviado : 3291
 Recebido sequencia : 3291---- Ack enviado : 3292
 Recebido sequencia : 3292---- Ack enviado : 3293
-Recebido numero de sequencia fora de ordem !! Sn = 3289
-Recebido numero de sequencia fora de ordem !! Sn = 3290
-Recebido numero de sequencia fora de ordem !! Sn = 3291
-Recebido numero de sequencia fora de ordem !! Sn = 3292
 Recebido sequencia : 3293---- Ack enviado : 3294
-Recebido numero de sequencia fora de ordem !! Sn = 3293
 Recebido sequencia : 3294---- Ack enviado : 3295
 Recebido sequencia : 3295---- Ack enviado : 3296
 Recebido sequencia : 3296---- Ack enviado : 3297
@@ -3523,12 +3418,7 @@ Recebido sequencia : 3415---- Ack enviado : 3416
 Recebido sequencia : 3416---- Ack enviado : 3417
 Recebido sequencia : 3417---- Ack enviado : 3418
 Recebido sequencia : 3418---- Ack enviado : 3419
-Recebido numero de sequencia fora de ordem !! Sn = 3415
-Recebido numero de sequencia fora de ordem !! Sn = 3416
-Recebido numero de sequencia fora de ordem !! Sn = 3417
-Recebido numero de sequencia fora de ordem !! Sn = 3418
 Recebido sequencia : 3419---- Ack enviado : 3420
-Recebido numero de sequencia fora de ordem !! Sn = 3419
 Recebido sequencia : 3420---- Ack enviado : 3421
 Recebido sequencia : 3421---- Ack enviado : 3422
 Recebido sequencia : 3422---- Ack enviado : 3423
@@ -3536,362 +3426,12 @@ Recebido sequencia : 3423---- Ack enviado : 3424
 Recebido sequencia : 3424---- Ack enviado : 3425
 Recebido sequencia : 3425---- Ack enviado : 3426
 Recebido sequencia : 3426---- Ack enviado : 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
 Recebido sequencia : 3427---- Ack enviado : 3428
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3423
-Recebido numero de sequencia fora de ordem !! Sn = 3424
-Recebido numero de sequencia fora de ordem !! Sn = 3425
-Recebido numero de sequencia fora de ordem !! Sn = 3426
-Recebido numero de sequencia fora de ordem !! Sn = 3427
-Recebido numero de sequencia fora de ordem !! Sn = 3427
 Recebido sequencia : 3428---- Ack enviado : 3429
 Recebido sequencia : 3429---- Ack enviado : 3430
 Recebido sequencia : 3430---- Ack enviado : 3431
 Recebido sequencia : 3431---- Ack enviado : 3432
-Recebido numero de sequencia fora de ordem !! Sn = 3428
-Recebido numero de sequencia fora de ordem !! Sn = 3429
-Recebido numero de sequencia fora de ordem !! Sn = 3430
-Recebido numero de sequencia fora de ordem !! Sn = 3431
 Recebido sequencia : 3432---- Ack enviado : 3433
-Recebido numero de sequencia fora de ordem !! Sn = 3432
 Recebido sequencia : 3433---- Ack enviado : 3434
 Recebido sequencia : 3434---- Ack enviado : 3435
 Recebido sequencia : 3435---- Ack enviado : 3436
@@ -4073,12 +3613,7 @@ Recebido sequencia : 3610---- Ack enviado : 3611
 Recebido sequencia : 3611---- Ack enviado : 3612
 Recebido sequencia : 3612---- Ack enviado : 3613
 Recebido sequencia : 3613---- Ack enviado : 3614
-Recebido numero de sequencia fora de ordem !! Sn = 3610
-Recebido numero de sequencia fora de ordem !! Sn = 3611
-Recebido numero de sequencia fora de ordem !! Sn = 3612
-Recebido numero de sequencia fora de ordem !! Sn = 3613
 Recebido sequencia : 3614---- Ack enviado : 3615
-Recebido numero de sequencia fora de ordem !! Sn = 3614
 Recebido sequencia : 3615---- Ack enviado : 3616
 Recebido sequencia : 3616---- Ack enviado : 3617
 Recebido sequencia : 3617---- Ack enviado : 3618
@@ -4260,12 +3795,7 @@ Recebido sequencia : 3792---- Ack enviado : 3793
 Recebido sequencia : 3793---- Ack enviado : 3794
 Recebido sequencia : 3794---- Ack enviado : 3795
 Recebido sequencia : 3795---- Ack enviado : 3796
-Recebido numero de sequencia fora de ordem !! Sn = 3792
-Recebido numero de sequencia fora de ordem !! Sn = 3793
-Recebido numero de sequencia fora de ordem !! Sn = 3794
-Recebido numero de sequencia fora de ordem !! Sn = 3795
 Recebido sequencia : 3796---- Ack enviado : 3797
-Recebido numero de sequencia fora de ordem !! Sn = 3796
 Recebido sequencia : 3797---- Ack enviado : 3798
 Recebido sequencia : 3798---- Ack enviado : 3799
 Recebido sequencia : 3799---- Ack enviado : 3800
@@ -4882,12 +4412,7 @@ Recebido sequencia : 4409---- Ack enviado : 4410
 Recebido sequencia : 4410---- Ack enviado : 4411
 Recebido sequencia : 4411---- Ack enviado : 4412
 Recebido sequencia : 4412---- Ack enviado : 4413
-Recebido numero de sequencia fora de ordem !! Sn = 4409
-Recebido numero de sequencia fora de ordem !! Sn = 4410
-Recebido numero de sequencia fora de ordem !! Sn = 4411
-Recebido numero de sequencia fora de ordem !! Sn = 4412
 Recebido sequencia : 4413---- Ack enviado : 4414
-Recebido numero de sequencia fora de ordem !! Sn = 4413
 Recebido sequencia : 4414---- Ack enviado : 4415
 Recebido sequencia : 4415---- Ack enviado : 4416
 Recebido sequencia : 4416---- Ack enviado : 4417
@@ -4914,12 +4439,7 @@ Recebido sequencia : 4436---- Ack enviado : 4437
 Recebido sequencia : 4437---- Ack enviado : 4438
 Recebido sequencia : 4438---- Ack enviado : 4439
 Recebido sequencia : 4439---- Ack enviado : 4440
-Recebido numero de sequencia fora de ordem !! Sn = 4436
-Recebido numero de sequencia fora de ordem !! Sn = 4437
-Recebido numero de sequencia fora de ordem !! Sn = 4438
-Recebido numero de sequencia fora de ordem !! Sn = 4439
 Recebido sequencia : 4440---- Ack enviado : 4441
-Recebido numero de sequencia fora de ordem !! Sn = 4440
 Recebido sequencia : 4441---- Ack enviado : 4442
 Recebido sequencia : 4442---- Ack enviado : 4443
 Recebido sequencia : 4443---- Ack enviado : 4444
@@ -5025,109 +4545,4 @@ Recebido sequencia : 4542---- Ack enviado : 4543
 Recebido sequencia : 4543---- Ack enviado : 4544
 Recebido sequencia : 4544---- Ack enviado : 4545
 Recebido sequencia : 4545---- Ack enviado : 4546
-Recebido sequencia : 4546---- Ack enviado : 4547
-Recebido sequencia : 4547---- Ack enviado : 4548
-Recebido sequencia : 4548---- Ack enviado : 4549
-Recebido sequencia : 4549---- Ack enviado : 4550
-Recebido sequencia : 4550---- Ack enviado : 4551
-Recebido sequencia : 4551---- Ack enviado : 4552
-Recebido sequencia : 4552---- Ack enviado : 4553
-Recebido sequencia : 4553---- Ack enviado : 4554
-Recebido sequencia : 4554---- Ack enviado : 4555
-Recebido sequencia : 4555---- Ack enviado : 4556
-Recebido sequencia : 4556---- Ack enviado : 4557
-Recebido sequencia : 4557---- Ack enviado : 4558
-Recebido sequencia : 4558---- Ack enviado : 4559
-Recebido sequencia : 4559---- Ack enviado : 4560
-Recebido sequencia : 4560---- Ack enviado : 4561
-Recebido sequencia : 4561---- Ack enviado : 4562
-Recebido sequencia : 4562---- Ack enviado : 4563
-Recebido sequencia : 4563---- Ack enviado : 4564
-Recebido sequencia : 4564---- Ack enviado : 4565
-Recebido sequencia : 4565---- Ack enviado : 4566
-Recebido sequencia : 4566---- Ack enviado : 4567
-Recebido sequencia : 4567---- Ack enviado : 4568
-Recebido sequencia : 4568---- Ack enviado : 4569
-Recebido sequencia : 4569---- Ack enviado : 4570
-Recebido sequencia : 4570---- Ack enviado : 4571
-Recebido sequencia : 4571---- Ack enviado : 4572
-Recebido sequencia : 4572---- Ack enviado : 4573
-Recebido sequencia : 4573---- Ack enviado : 4574
-Recebido sequencia : 4574---- Ack enviado : 4575
-Recebido sequencia : 4575---- Ack enviado : 4576
-Recebido sequencia : 4576---- Ack enviado : 4577
-Recebido sequencia : 4577---- Ack enviado : 4578
-Recebido sequencia : 4578---- Ack enviado : 4579
-Recebido sequencia : 4579---- Ack enviado : 4580
-Recebido sequencia : 4580---- Ack enviado : 4581
-Recebido sequencia : 4581---- Ack enviado : 4582
-Recebido sequencia : 4582---- Ack enviado : 4583
-Recebido sequencia : 4583---- Ack enviado : 4584
-Recebido sequencia : 4584---- Ack enviado : 4585
-Recebido sequencia : 4585---- Ack enviado : 4586
-Recebido sequencia : 4586---- Ack enviado : 4587
-Recebido sequencia : 4587---- Ack enviado : 4588
-Recebido sequencia : 4588---- Ack enviado : 4589
-Recebido sequencia : 4589---- Ack enviado : 4590
-Recebido sequencia : 4590---- Ack enviado : 4591
-Recebido sequencia : 4591---- Ack enviado : 4592
-Recebido sequencia : 4592---- Ack enviado : 4593
-Recebido sequencia : 4593---- Ack enviado : 4594
-Recebido sequencia : 4594---- Ack enviado : 4595
-Recebido sequencia : 4595---- Ack enviado : 4596
-Recebido sequencia : 4596---- Ack enviado : 4597
-Recebido sequencia : 4597---- Ack enviado : 4598
-Recebido sequencia : 4598---- Ack enviado : 4599
-Recebido sequencia : 4599---- Ack enviado : 4600
-Recebido sequencia : 4600---- Ack enviado : 4601
-Recebido sequencia : 4601---- Ack enviado : 4602
-Recebido sequencia : 4602---- Ack enviado : 4603
-Recebido sequencia : 4603---- Ack enviado : 4604
-Recebido sequencia : 4604---- Ack enviado : 4605
-Recebido sequencia : 4605---- Ack enviado : 4606
-Recebido sequencia : 4606---- Ack enviado : 4607
-Recebido sequencia : 4607---- Ack enviado : 4608
-Recebido sequencia : 4608---- Ack enviado : 4609
-Recebido sequencia : 4609---- Ack enviado : 4610
-Recebido sequencia : 4610---- Ack enviado : 4611
-Recebido sequencia : 4611---- Ack enviado : 4612
-Recebido sequencia : 4612---- Ack enviado : 4613
-Recebido sequencia : 4613---- Ack enviado : 4614
-Recebido sequencia : 4614---- Ack enviado : 4615
-Recebido sequencia : 4615---- Ack enviado : 4616
-Recebido sequencia : 4616---- Ack enviado : 4617
-Recebido sequencia : 4617---- Ack enviado : 4618
-Recebido sequencia : 4618---- Ack enviado : 4619
-Recebido sequencia : 4619---- Ack enviado : 4620
-Recebido sequencia : 4620---- Ack enviado : 4621
-Recebido sequencia : 4621---- Ack enviado : 4622
-Recebido sequencia : 4622---- Ack enviado : 4623
-Recebido sequencia : 4623---- Ack enviado : 4624
-Recebido sequencia : 4624---- Ack enviado : 4625
-Recebido sequencia : 4625---- Ack enviado : 4626
-Recebido sequencia : 4626---- Ack enviado : 4627
-Recebido sequencia : 4627---- Ack enviado : 4628
-Recebido sequencia : 4628---- Ack enviado : 4629
-Recebido sequencia : 4629---- Ack enviado : 4630
-Recebido sequencia : 4630---- Ack enviado : 4631
-Recebido sequencia : 4631---- Ack enviado : 4632
-Recebido sequencia : 4632---- Ack enviado : 4633
-Recebido sequencia : 4633---- Ack enviado : 4634
-Recebido sequencia : 4634---- Ack enviado : 4635
-Recebido sequencia : 4635---- Ack enviado : 4636
-Recebido sequencia : 4636---- Ack enviado : 4637
-Recebido sequencia : 4637---- Ack enviado : 4638
-Recebido sequencia : 4638---- Ack enviado : 4639
-Recebido sequencia : 4639---- Ack enviado : 4640
-Recebido sequencia : 4640---- Ack enviado : 4641
-Recebido sequencia : 4641---- Ack enviado : 4642
-Recebido sequencia : 4642---- Ack enviado : 4643
-Recebido sequencia : 4643---- Ack enviado : 4644
-Recebido sequencia : 4644---- Ack enviado : 4645
-Recebido sequencia : 4645---- Ack enviado : 4646
-Recebido sequencia : 4646---- Ack enviado : 4647
-Recebido sequencia : 4647---- Ack enviado : 4648
-Recebido numero de sequencia fora de ordem !! Sn = 4645
-Recebido numero de sequencia fora de ordem !! Sn = 4646
-Recebido numero de sequencia fora de ordem !! Sn = 4647
 Mensagens Recebidas com sucesso !
