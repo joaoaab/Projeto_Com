@@ -9,7 +9,7 @@ import pickle
 TCP_IP = "localhost"
 TCP_PORT = 12000
 BUFFER_SIZE = 1024
-ackConnection = pickle.dumps("ACK")
+ackConnection = "ACK"
 qtdJogadores = 2
 
 Caixa = {
@@ -54,7 +54,7 @@ tcpServer.bind((TCP_IP, TCP_PORT))
 threads = []
 sockets = []
 data = ""
-
+locker = threading.Lock()
 
 # Classes do jogo
 
@@ -103,7 +103,7 @@ class Game:
 
         elif atributo == "coragem":
             enviar("ACK", sockets[self.turno])
-            higher = self.player1.compare_first_card(self.player2, "coragem")
+            higher = self.player1.compareTopCard(self.player2, "coragem")
             if higher == self.player1:
                 self.player1 = self.player1.playerWins(self.player2)
                 self.player2 = self.player2.playerLoses()
@@ -120,7 +120,7 @@ class Game:
 
         elif atributo == "bom_humor":
             enviar("ACK", sockets[self.turno])
-            higher = self.player1.compare_first_card(self.player2, "bom_humor")
+            higher = self.player1.compareTopCard(self.player2, "bom_humor")
             if higher == self.player1:
                 self.player1 = self.player1.playerWins(self.player2)
                 self.player2 = self.player2.playerLoses()
@@ -136,7 +136,7 @@ class Game:
 
         elif atributo == "agilidade":
             enviar("ACK", sockets[self.turno])
-            higher = self.player1.compare_first_card(self.player2, "agilidade")
+            higher = self.player1.compareTopCard(self.player2, "agilidade")
             if higher == self.player1:
                 self.player1 = self.player1.playerWins(self.player2)
                 self.player2 = self.player2.playerLoses()
@@ -172,21 +172,24 @@ class Game:
         # Recebe o atributo escolhido da carta e anuncia para o que
         # não tem o turno
         recebido = receber(sockets[self.turno])
+        time.sleep(2)
         enviar(recebido, sockets[(self.turno + 1) % 2])
-
         # Checkar as cartas dos players e ver quem ganhou o turno
         self.batalha(recebido)
 
 
 def handshake(sock):
     global Players
+    global locker
     data = sock.recv(1024)
     data = pickle.loads(data)
+    locker.acquire()
     Players.append(data)
-    sock.sendall(ackConnection)
+    locker.release()
 
 
 def broadcast(data):
+    print("Broadcasting")
     global sockets
     data = pickle.dumps(data)
     for s in sockets:
@@ -206,8 +209,12 @@ def receber(socki):
 
 
 def enviarturnos(sockets, jogo):
-    enviar("1", sockets[jogo.turno])
-    enviar("0", sockets[((jogo.turno + 1) % 2)])
+    if jogo.turno == 0:
+        enviar(1, sockets[0])
+        enviar(0, sockets[1])
+    else:
+        enviar(0, sockets[0])
+        enviar(1, sockets[1])
 
 
 def receberJogada(socki):
@@ -220,6 +227,7 @@ def main():
     global sockets
     global threads
     global Players
+    global ackConnection
     # fazer handshake e etc...
     tcpServer.listen(2)
     qtdConexoes = 0
@@ -238,8 +246,12 @@ def main():
 
     if(len(Players) == qtdJogadores):
         jogo = Game(Players[0], Players[1])
+        enviar(Players[1], sockets[0])
+        enviar(Players[0], sockets[1])
     else:
         print("Erro, não conseguiu ler os 2 nomes")
+
+    broadcast(ackConnection)
 
     # Cria Decks e envia para os clientes
     jogo.fillDeck()
