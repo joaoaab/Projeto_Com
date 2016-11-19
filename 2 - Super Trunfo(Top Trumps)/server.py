@@ -7,9 +7,9 @@ import pickle
 
 # Constantes
 TCP_IP = "localhost"
-TCP_PORT = 2004
+TCP_PORT = 12000
 BUFFER_SIZE = 1024
-ackConnection = "ACK"
+ackConnection = pickle.dumps("ACK")
 qtdJogadores = 2
 
 Caixa = {
@@ -52,81 +52,202 @@ tcpServer = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 tcpServer.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 tcpServer.bind((TCP_IP, TCP_PORT))
 threads = []
+sockets = []
+data = ""
 
 
 # Classes do jogo
 
 
-class Card:
-    def __init__(self, key, name, att1, att2, att3, att4):
-        self.name = name
-        self.key = key
-        self.imag = att1
-        self.coragem = att2
-        self.bom_humor = att3
-        self.agilidade = att4
-
-
 class Game:
 
     def __init__(self, player1, player2):
-        self.player1 = player(player1)
-        self.player2 = player(player2)
+        self.player1 = player.player(player1)
+        self.player2 = player.player(player2)
         self.deck = []
         self.winner = 0
         self.turno = None
+        self.isthereawinner = 0
 
     def fillDeck(self):
         # Pra cada carta na caixa cria um objeto Carta e coloca no deck do
         # server
         for i in Caixa:
-            self.deck.append(Card(i, Caixa[i][0], Caixa[i][1], Caixa[
+            self.deck.append(player.Card(i, Caixa[i][0], Caixa[i][1], Caixa[
                              i][2], Caixa[i][3], Caixa[i][4]))
 
     def distributeCards(self):
         # Distribui as cartas nos decks do players
+        random.shuffle(self.deck)
         self.player1.deck = self.deck[:len(self.deck) // 2]
         self.player2.deck = self.deck[len(self.deck) // 2:]
 
-    def batalha(self,numero,atributo):
+    def batalha(self, atributo):
+        global sockets
         # faz a batalha entre as cartas
-        pass
+        if atributo == "imag":
+            enviar("ACK", sockets[self.turno])
+            higher = self.player1.compareTopCard(self.player2, "imag")
+            if higher == self.player1:
+                self.player1 = self.player1.playerWins(self.player2)
+                self.player2 = self.player2.playerLoses()
+                self.player1.won = 1
+                self.player2.won = 0
+                time.sleep(4)
+            else:
+                self.player2 = self.player2.playerWins(self.player1)
+                self.player1 = self.player1.playerLoses()
+                self.player1.won = 0
+                self.player2.won = 1
+                time.sleep(4)
+
+        elif atributo == "coragem":
+            enviar("ACK", sockets[self.turno])
+            higher = self.player1.compare_first_card(self.player2, "coragem")
+            if higher == self.player1:
+                self.player1 = self.player1.playerWins(self.player2)
+                self.player2 = self.player2.playerLoses()
+                self.player1.won = 1
+                self.player2.won = 0
+                time.sleep(4)
+
+            else:
+                self.player2 = self.player2.playerWins(self.player1)
+                self.player1 = self.player1.playerLoses()
+                self.player1.won = 0
+                self.player2.won = 1
+                time.sleep(4)
+
+        elif atributo == "bom_humor":
+            enviar("ACK", sockets[self.turno])
+            higher = self.player1.compare_first_card(self.player2, "bom_humor")
+            if higher == self.player1:
+                self.player1 = self.player1.playerWins(self.player2)
+                self.player2 = self.player2.playerLoses()
+                self.player1.won = 1
+                self.player2.won = 0
+                time.sleep(4)
+            else:
+                self.player2.playerWins(self.player2)
+                self.player1 = self.player1.playerLoses()
+                self.player1.won = 0
+                self.player2.won = 1
+                time.sleep(4)
+
+        elif atributo == "agilidade":
+            enviar("ACK", sockets[self.turno])
+            higher = self.player1.compare_first_card(self.player2, "agilidade")
+            if higher == self.player1:
+                self.player1 = self.player1.playerWins(self.player2)
+                self.player2 = self.player2.playerLoses()
+                self.player1.won = 1
+                self.player2.won = 0
+                time.sleep(4)
+            else:
+                self.player2 = self.player2.playerWins(self.player1)
+                self.player1 = self.player1.playerLoses()
+                self.player1.won = 0
+                self.player2.won = 1
+                time.sleep(4)
+
+        else:
+            enviar("jogada não valida", sockets[self.turno])
+            self.jogarturno()
+
+        # mandar mensagem avisando e atualizando o deck dos 2
+        if len(self.player1.deck) == 0:
+            # significa que player1 perdeu
+            self.isthereawinner = 1
+        elif len(self.player2.deck) == 0:
+            # significa que player 2 perdeu
+            self.isthereawinner = 1
+
+        whowon = {self.player1.name: [self.player1.won, self.isthereawinner],
+                  self.player2.name: [self.player2.won, self.isthereawinner]}
+
+        broadcast(whowon)
+
+    def jogarturno(self):
+        global sockets
+        # Recebe o atributo escolhido da carta e anuncia para o que
+        # não tem o turno
+        recebido = receber(sockets[self.turno])
+        enviar(recebido, sockets[(self.turno + 1) % 2])
+
+        # Checkar as cartas dos players e ver quem ganhou o turno
+        self.batalha(recebido)
 
 
-def handshake():
-    data = tcpServer.recv(1024)
+def handshake(sock):
+    global Players
+    data = sock.recv(1024)
     data = pickle.loads(data)
+    Players.append(data)
+    sock.sendall(ackConnection)
 
 
-def printcard(carta):
+def broadcast(data):
+    global sockets
+    data = pickle.dumps(data)
+    for s in sockets:
+        s.sendall(data)
 
-    print("Codigo : {}\n Nome : " .format(carta.key, carta.name))
-    print("Imaginação : " + str(carta.imag))
-    print("Coragem : " + str(carta.coragem))
-    print("Bom Humor : " + str(carta.bom_humor))
-    print("Agilidade : " + str(carta.agilidade))
+
+def enviar(data, socki):
+    data = pickle.dumps(data)
+    socki.sendall(data)
+
+
+def receber(socki):
+    global BUFFER_SIZE
+    data = socki.recv(BUFFER_SIZE)
+    data = pickle.loads(data)
+    return data
+
+
+def enviarturnos(sockets, jogo):
+    enviar("1", sockets[jogo.turno])
+    enviar("0", sockets[((jogo.turno + 1) % 2)])
+
+
+def receberJogada(socki):
+    pass
 
 
 def main():
     global qtdJogadores
     global tcpServer
+    global sockets
+    global threads
+    global Players
     # fazer handshake e etc...
     tcpServer.listen(2)
-    qtdConexões = 0
+    qtdConexoes = 0
 
-    while qtdConexões < qtdJogadores:
+    while qtdConexoes < qtdJogadores:
         conex, (ip, port) = tcpServer.accept()
-        newthread = threading.Thread(target=handshake)
+        sockets.append(conex)
+        newthread = threading.Thread(target=handshake, args=(conex,))
         newthread.start()
         threads.append(newthread)
-        qtdConexões += 1
+        qtdConexoes += 1
 
-    if(len(Players) == 2):
+    for t in threads:
+        t.join()
+    threads = []
+
+    if(len(Players) == qtdJogadores):
         jogo = Game(Players[0], Players[1])
     else:
         print("Erro, não conseguiu ler os 2 nomes")
 
+    # Cria Decks e envia para os clientes
     jogo.fillDeck()
+    jogo.distributeCards()
+    enviar(jogo.player1.deck, sockets[0])
+    enviar(jogo.player2.deck, sockets[0])
+    enviar(jogo.player2.deck, sockets[1])
+    enviar(jogo.player1.deck, sockets[1])
 
     # a partir daqui o jogo rola
 
@@ -134,6 +255,7 @@ def main():
     print("Quem vai jogar primeiro é : player " + str(jogo.turno + 1))
 
     while jogo.winner == 0:
+        enviarturnos(sockets, jogo)
         jogo.jogarturno()
         if jogo.player1.won:
             jogo.turno = 0

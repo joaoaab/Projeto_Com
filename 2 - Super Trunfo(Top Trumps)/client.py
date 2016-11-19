@@ -4,16 +4,113 @@ import pickle
 
 # Estruturas
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-IP = socket.gethostname()
+IP = "localhost"
 Port = 12000
+BUFFER_SIZE = 1024
+control = "go"
+
+def enviar(data):
+    global sock
+    data = pickle.dumps(data)
+    sock.sendall(data)
 
 
-def enviar(dados):
-    dados = pickle.dumps(dados)
-    socket.send(dados)
+def printCard(carta):
+
+    print("Codigo : {}\n Nome : " .format(carta.key, carta.name))
+    print("Imaginação : " + str(carta.imag))
+    print("Coragem : " + str(carta.coragem))
+    print("Bom Humor : " + str(carta.bom_humor))
+    print("Agilidade : " + str(carta.agilidade))
+
+
+def receber():
+    global sock
+    global BUFFER_SIZE
+    data = sock.recv(BUFFER_SIZE)
+    data = pickle.loads(data)
+    return data
+
+
+def checkarResultados(jogador, outrem):
+    global control
+    resultados = receber()
+
+    if resultados[jogador.name][0] and resultados[jogador.name][1]:
+        print("Você ganhou o jogo !")
+        control = "exit"
+        jogador = jogador.playerWins()
+        outrem = outrem.playerLoses()
+    elif resultados[jogador.name][0]:
+        print("Você ganhou o round !! atualizando seu deck...")
+        jogador = jogador.playerWins()
+        outrem = outrem.playerLoses()
+        control = "exit"
+    elif resultados[outrem.name][0] and resultados[outrem.name][1]:
+        print("Você perdeu jogo :/")
+        jogador = jogador.playerLoses()
+        outrem = outrem.playerWins()
+        control = "exit"
+    elif resultados[outrem.name][0]:
+        print("Você Perdeu o Round :/")
+        jogador = jogador.playerLoses()
+        outrem = outrem.playerWins()
+
+    
 
 
 def main():
+    global sock
+    global IP
+    global Port
+    global control
+
     name = input("Dale jogador!, qual o seu nome ?")
-    socket.connect((IP, Port))
+    eu = player.player(name)
+    inimigo = player.player("outrem")
+    sock.connect((IP, Port))
     enviar(name)
+    received = receber()
+
+    # this means the connection is active
+    if received == "ACK":
+
+        # Após enviar o nome e receber o ACK cada jogador recebe seu deck
+
+        received = receber()
+        eu.setDeck(received)
+        received = receber()
+        inimigo.setDeck(received)
+
+        # E fica num loop até o server falar que o jogo acabou
+        while control != "exit":
+            received = receber()
+            if received == 1:
+                print("Você tem {} cartas" .format(len(eu.deck)))
+                print("Seu inimigo tem {} cartas" .format(len(inimigo.deck)))
+                print("Sua Carta do topo é  :")
+                printCard(eu.deck[0])
+                validationMSG = ""
+                while validationMSG == "jogada não valida":
+                    atributo = input(
+                        "escolha um atributo(imag,coragem,bom humor,agilidade):")
+                    enviar(atributo)
+                    validationMSG = receber()
+                print("Esperando Avaliação...")
+
+            else:
+                print("Você tem {} cartas" .format(len(eu.deck)))
+                print("Seu inimigo tem {} cartas" .format(len(inimigo.deck)))
+                print("Sua Carta do topo é  :")
+                printCard(eu.deck[0])
+                print("seu oponente está escolhendo o atributo ...")
+                validationMSG = ""
+                while validationMSG == "jogada nao valida":
+                    received = receber()
+                print("seu oponente escolheu :" + received)
+                print("Esperando Avaliação...")
+            checkarResultados(eu, inimigo)
+
+
+if __name__ == '__main__':
+    main()
