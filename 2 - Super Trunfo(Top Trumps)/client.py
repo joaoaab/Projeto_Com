@@ -45,7 +45,7 @@ def checkarResultados(jogador, outrem):
         jogador = jogador.playerWins(outrem)
         outrem = outrem.playerLoses()
     elif resultados[eu][0]:
-        print("Você ganhou o round !! atualizando seu deck...")
+        print("Você ganhou o round !!")
         jogador = jogador.playerWins(outrem)
         outrem = outrem.playerLoses()
     elif resultados[inimigo][0] and resultados[inimigo][1]:
@@ -71,47 +71,43 @@ def main():
     enviar(name)
     received = receber()
     inimigo = player.player(received)
-    print("eu : {} e ele : {}".format(eu.name, inimigo.name))
+
+    # Após enviar o nome cada jogador recebe seu deck
+    # e o deck inimigo
 
     received = receber()
-    # this means the connection is active
-    if received == "ACK":
+    eu.setDeck(received)
+    received = receber()
+    inimigo.setDeck(received)
 
-        # Após enviar o nome e receber o ACK cada jogador recebe seu deck
-
+    # E fica num loop até o server falar que o jogo acabou
+    while control != "exit":
         received = receber()
-        eu.setDeck(received)
-        received = receber()
-        inimigo.setDeck(received)
+        print(received)
+        if received == 1:
+            print("Você tem {} cartas" .format(len(eu.deck)))
+            print("Seu inimigo tem {} cartas" .format(len(inimigo.deck)))
+            print("Sua Carta do topo é  :")
+            printCard(eu.deck[0])
+            validationMSG = "jogada não valida"
+            while validationMSG == "jogada não valida":
+                atributo = input(
+                    "escolha um atributo(imag,coragem,bom humor,agilidade):")
+                enviar(atributo)
+                validationMSG = receber()
+            print("Esperando Avaliação...")
 
-        # E fica num loop até o server falar que o jogo acabou
-        while control != "exit":
+        else:
+            print("Você tem {} cartas" .format(len(eu.deck)))
+            print("Seu inimigo tem {} cartas" .format(len(inimigo.deck)))
+            print("Sua Carta do topo é  :")
+            printCard(eu.deck[0])
+            print("seu oponente está escolhendo o atributo ...")
             received = receber()
-            print(received == 1)
-            if received == 1:
-                print("Você tem {} cartas" .format(len(eu.deck)))
-                print("Seu inimigo tem {} cartas" .format(len(inimigo.deck)))
-                print("Sua Carta do topo é  :")
-                printCard(eu.deck[0])
-                validationMSG = "jogada não valida"
-                while validationMSG == "jogada não valida":
-                    atributo = input(
-                        "escolha um atributo(imag,coragem,bom humor,agilidade):")
-                    enviar(atributo)
-                    validationMSG = receber()
-                print("Esperando Avaliação...")
-
-            else:
-                print("Você tem {} cartas" .format(len(eu.deck)))
-                print("Seu inimigo tem {} cartas" .format(len(inimigo.deck)))
-                print("Sua Carta do topo é  :")
-                printCard(eu.deck[0])
-                print("seu oponente está escolhendo o atributo ...")
-                received = receber()
-                print("seu oponente escolheu :" + received)
-                print("Esperando Avaliação...")
-            checkarResultados(eu, inimigo)
-        print("Game Over!!!")
+            print("seu oponente escolheu :" + received)
+            print("Esperando Avaliação...")
+        checkarResultados(eu, inimigo)
+    print("Game Over!!!")
 
 
 if __name__ == '__main__':

@@ -118,7 +118,7 @@ class Game:
                 self.player2.won = 1
                 time.sleep(4)
 
-        elif atributo == "bom_humor":
+        elif atributo == "bom humor":
             enviar("ACK", sockets[self.turno])
             higher = self.player1.compareTopCard(self.player2, "bom_humor")
             if higher == self.player1:
@@ -166,6 +166,7 @@ class Game:
                   self.player2.name: [self.player2.won, self.isthereawinner]}
 
         broadcast(whowon)
+        time.sleep(2)
 
     def jogarturno(self):
         global sockets
@@ -189,7 +190,6 @@ def handshake(sock):
 
 
 def broadcast(data):
-    print("Broadcasting")
     global sockets
     data = pickle.dumps(data)
     for s in sockets:
@@ -248,10 +248,10 @@ def main():
         jogo = Game(Players[0], Players[1])
         enviar(Players[1], sockets[0])
         enviar(Players[0], sockets[1])
+        time.sleep(1)
     else:
         print("Erro, não conseguiu ler os 2 nomes")
 
-    broadcast(ackConnection)
 
     # Cria Decks e envia para os clientes
     jogo.fillDeck()
@@ -261,6 +261,8 @@ def main():
     enviar(jogo.player2.deck, sockets[1])
     enviar(jogo.player1.deck, sockets[1])
 
+    time.sleep(2)
+
     # a partir daqui o jogo rola
 
     jogo.turno = random.randint(0, 1)
@@ -268,7 +270,9 @@ def main():
 
     while jogo.winner == 0:
         enviarturnos(sockets, jogo)
+        print("enviados turnos!")
         jogo.jogarturno()
+        print("turno jogado!")
         if jogo.player1.won:
             jogo.turno = 0
         else:
