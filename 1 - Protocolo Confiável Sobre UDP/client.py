@@ -19,9 +19,10 @@ qtdpacotes = 0
 estimatedRTT = 1
 enviados = 0
 MsgFIM = "QuitConnection"
-timeout = 0.001  # depende do computador / rede
+timeout = 0.00001  # depende do computador / rede
 Sn = 0
 log = open("log_client.txt", "w+")
+qtdtimeout = 0
 
 # Destino
 destino = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -41,6 +42,7 @@ def Enviardef(conteudo):
     global enviados
     global Sn
     global log
+    global qtdpacotes
     nPacotesAcked = 0
     enviados = 0
     # desse jeito eu garanto 1 pacote por "fatia" do arquivo
@@ -86,6 +88,9 @@ def Enviardef(conteudo):
                     # manda uma mensagem que indica pro server que as mensagens
                     # acabaram
                     socketar(fin)
+                    log.write("Final do Programa, todas mensagens enviadas\n")
+                    porcent = float((qtdtimeout / qtdpacotes) * 100)
+                    log.write("retransmissão = " + str(porcent) + "%")
                     destino.close()  # fecha o socket de recebimento
                     break
         except socket.timeout:  # se o temporizador estourar ..
@@ -126,7 +131,9 @@ def timedout():
     global Sn
     global qtdpacotes
     global packages
+    global qtdtimeout
     temp = windowLeft
+    qtdtimeout += 1
     # envia a janela toda dnv e volta pra esperar os acks :)
     while temp <= windowRight and temp < qtdpacotes:
         socketar(packages[temp])
