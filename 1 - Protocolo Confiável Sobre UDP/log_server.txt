@@ -1,4 +1,4 @@
-Iniciar Log, Data : Sat Dec  3 01:53:51 2016
+Iniciar Log, Data : Thu Dec  8 16:48:38 2016
 Recebido sequencia : 0---- Ack enviado : 1
 Recebido sequencia : 1---- Ack enviado : 2
 Recebido sequencia : 2---- Ack enviado : 3
@@ -1166,16 +1166,12 @@ Recebido numero de sequencia fora de ordem !! Sn = 999
 Recebido numero de sequencia fora de ordem !! Sn = 1000
 Recebido numero de sequencia fora de ordem !! Sn = 1001
 Recebido numero de sequencia fora de ordem !! Sn = 1002
+Recebido numero de sequencia fora de ordem !! Sn = 1003
 Recebido sequencia : 1004---- Ack enviado : 1005
 Recebido sequencia : 1005---- Ack enviado : 1006
 Recebido sequencia : 1006---- Ack enviado : 1007
 Recebido sequencia : 1007---- Ack enviado : 1008
-Recebido numero de sequencia fora de ordem !! Sn = 1004
-Recebido numero de sequencia fora de ordem !! Sn = 1005
-Recebido numero de sequencia fora de ordem !! Sn = 1006
-Recebido numero de sequencia fora de ordem !! Sn = 1007
 Recebido sequencia : 1008---- Ack enviado : 1009
-Recebido numero de sequencia fora de ordem !! Sn = 1008
 Recebido sequencia : 1009---- Ack enviado : 1010
 Recebido sequencia : 1010---- Ack enviado : 1011
 Recebido sequencia : 1011---- Ack enviado : 1012

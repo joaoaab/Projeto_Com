@@ -56,8 +56,7 @@ sockets = []
 data = ""
 locker = threading.Lock()
 
-# Classes do jogo
-
+# Classe do jogo
 
 class Game:
 
@@ -178,6 +177,8 @@ class Game:
         # Checkar as cartas dos players e ver quem ganhou o turno
         self.batalha(recebido)
 
+# só pra criar a conexão entre players e servidor
+
 
 def handshake(sock):
     global Players
@@ -217,10 +218,6 @@ def enviarturnos(sockets, jogo):
         enviar(1, sockets[1])
 
 
-def receberJogada(socki):
-    pass
-
-
 def main():
     global qtdJogadores
     global tcpServer
@@ -251,7 +248,6 @@ def main():
         time.sleep(1)
     else:
         print("Erro, não conseguiu ler os 2 nomes")
-
 
     # Cria Decks e envia para os clientes
     jogo.fillDeck()

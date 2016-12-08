@@ -108,6 +108,7 @@ def main():
             print("Esperando Avaliação...")
         checkarResultados(eu, inimigo)
     print("Game Over!!!")
+    sock.close()
 
 
 if __name__ == '__main__':

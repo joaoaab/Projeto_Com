@@ -1,4 +1,4 @@
-Começando programa, Registrar LOG,data : Sat Dec  3 01:53:52 2016 
+Começando programa, Registrar LOG,data : Thu Dec  8 16:48:40 2016 
 Enviando Pacote 0
 Enviando Pacote 1
 Enviando Pacote 2
@@ -2445,6 +2445,12 @@ Reenviando Pacote : 1000
 Reenviando Pacote : 1001
 Reenviando Pacote : 1002
 Reenviando Pacote : 1003
+Temporizador Estourou, entrando em modo de reenvio
+Reenviando Pacote : 999
+Reenviando Pacote : 1000
+Reenviando Pacote : 1001
+Reenviando Pacote : 1002
+Reenviando Pacote : 1003
 ACK Recebido : 1000
 Enviando pacote 1003
 ACK Recebido : 1001
@@ -2455,12 +2461,6 @@ ACK Recebido : 1003
 Enviando pacote 1006
 ACK Recebido : 1004
 Enviando pacote 1007
-Temporizador Estourou, entrando em modo de reenvio
-Reenviando Pacote : 1004
-Reenviando Pacote : 1005
-Reenviando Pacote : 1006
-Reenviando Pacote : 1007
-Reenviando Pacote : 1008
 ACK Recebido : 1005
 Enviando pacote 1008
 ACK Recebido : 1006
