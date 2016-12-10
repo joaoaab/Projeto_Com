@@ -1,5 +1,4 @@
 import socket
-import random
 import pickle
 import copy
 import sys
@@ -69,18 +68,18 @@ def vertical_or_horizontal():
         if user_input == "v" or user_input == "h":
             return user_input
         else:
-            print "Invalid input. Please only enter v or h"
+            print "digite h para horizontal e v para vertical!"
 
 
 def solicitar_coordenada():
 
     while (True):
-        user_input = raw_input("Please enter coordinates (row,col) ? ")
+        user_input = raw_input("digite as coordenadas (linha,coluna)")
         try:
             # see that user entered 2 values seprated by comma
             coor = user_input.split(",")
             if len(coor) != 2:
-                raise Exception("Entrada invalida, ")
+                raise Exception("Entrada invalida.")
 
             # check that 2 values are integers
             coor[0] = int(coor[0]) - 1
@@ -90,13 +89,13 @@ def solicitar_coordenada():
             # coordinates
             if coor[0] > 9 or coor[0] < 0 or coor[1] > 9 or coor[1] < 0:
                 raise Exception(
-                    "Invalid entry. Please use values between 1 to 10 only.")
+                    "somente valores dentro dos limites !")
 
             # if everything is ok, return coordinates
             return coor
 
         except ValueError:
-            print "Invalid entry. Please enter only numeric values for coordinates"
+            print "somente valores numericos por favor"
         except Exception as e:
             print e
 
@@ -149,7 +148,7 @@ def colocar_navios(board, ships):
                 valid = validate(board, ships[ship][0], x, y, ori)
                 if not valid:
                     print "Nao se pode colocar um navio aqui, tente dnv."
-                    raw_input("Hit ENTER to continue")
+                    raw_input("Pressione enter para continuar")
                 i += 1
 
             board = place_ship(board, ships[ship], ship[0], ori, x, y)
@@ -161,7 +160,7 @@ def colocar_navios(board, ships):
 
 def cond_vitoria(board):
     funciona = True
-    # se tiver algum pedaço de barco ainda dentro do tabuleiro retorn False
+    # se tiver algum pedaco de barco ainda dentro do tabuleiro retorn False
     for i in range(10):
         for j in range(10):
             if board[i][j] != -1 and board[i][j] != "*" and board[i][j] != "$":
@@ -235,12 +234,12 @@ def main():
         conn, addr = receiver.accept()
         state = 1
     else:
-        porta = raw_input("digite a porta fornecida pelo outro :")
+        porta = raw_input("digite a porta fornecida pelo outro player:")
         porta = int(porta)
         receiver.connect(("localhost", porta))
         state = 0
 
-    # dicionario com cada navio e com a quantidade deles
+    # dicionario com cada navio e com a quantidade deles e tamanho
     ships = {"Aircraft Carrier": [5, 1],
              "Battleship": [4, 1],
              "Submarine": [3, 3],
@@ -281,7 +280,6 @@ def main():
         if state == 1:
             printar_tabuleiro("e", enemy)
             enemy = jogar(enemy)
-            print enemy
 
             if enemy == "WIN":
                 print "Voce Ganhou!"
@@ -298,7 +296,7 @@ def main():
                 else:
                     enviar_jogada(enemy, receiver)
             printar_tabuleiro("e", enemy)
-            print "Acabou o turno"
+            print "Acabou o turno, Espere a jogada inimiga"
             state = 0
 
         elif state == 0:
@@ -312,7 +310,6 @@ def main():
                 quit()
 
             printar_tabuleiro("u", user)
-            print "acabou o seu turno turno"
             state = 1
 
 
