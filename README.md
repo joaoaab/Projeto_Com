@@ -32,7 +32,7 @@ juntamente com um relatório especificando o que foi feito em cada uma delas.
 
 - __Batalha Naval (P2P)__:
 
-- [ ] Deverá ser implementado apenas um programa, que rodará para cada usuário.
+- [x] Deverá ser implementado apenas um programa, que rodará para cada usuário.
  
 __Sobre o jogo___:
 
