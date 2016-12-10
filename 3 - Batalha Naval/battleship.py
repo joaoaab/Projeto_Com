@@ -80,7 +80,7 @@ def solicitar_coordenada():
             # see that user entered 2 values seprated by comma
             coor = user_input.split(",")
             if len(coor) != 2:
-                raise Exception("Invalid entry, too few/many coordinates.")
+                raise Exception("Entrada invalida, ")
 
             # check that 2 values are integers
             coor[0] = int(coor[0]) - 1
@@ -160,12 +160,14 @@ def colocar_navios(board, ships):
 
 
 def cond_vitoria(board):
+    funciona = True
+    # se tiver algum pedaço de barco ainda dentro do tabuleiro retorn False
     for i in range(10):
         for j in range(10):
             if board[i][j] != -1 and board[i][j] != "*" and board[i][j] != "$":
-                return False
-
-    return True
+                funciona = False
+    # se nao, retorna True
+    return funciona
 
 
 def cond_afundar(board, x, y):
