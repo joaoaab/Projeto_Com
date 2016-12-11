@@ -18,11 +18,28 @@ def enviar(data):
 
 def printCard(carta):
 
-    print("Codigo : {}\nNome :{}" .format(carta.key, carta.name))
-    print("Imaginação : " + str(carta.imag))
-    print("Coragem : " + str(carta.coragem))
-    print("Bom Humor : " + str(carta.bom_humor))
-    print("Agilidade : " + str(carta.agilidade))
+    print("|||Codigo : {} Nome :{}" .format(carta.key, carta.name))
+    print("----------------------------------------------------------------")
+    print("|||Imaginação : " + str(carta.imag) + "   ",end="")
+    for i in range(carta.imag):
+        print("|", end="")
+    print ("")
+    print("----------------------------------------------------------------")
+    print("|||Coragem : " + str(carta.coragem) + "   ",end="")
+    for i in range(carta.coragem):
+        print("|", end="")
+    print ("")
+    print("----------------------------------------------------------------")
+    print("|||Bom Humor : " + str(carta.bom_humor) + "   ",end="")
+    for i in range(carta.bom_humor):
+        print("|", end="")
+    print ("")
+    print("----------------------------------------------------------------")
+    print("|||Agilidade : " + str(carta.agilidade) + "   ",end="")
+    for i in range(carta.agilidade):
+        print("|", end="")
+    print ("")
+    print("----------------------------------------------------------------")
 
 
 def receber():
@@ -36,7 +53,6 @@ def receber():
 def checkarResultados(jogador, outrem):
     global control
     resultados = receber()
-    print(resultados)
     eu = jogador.name
     inimigo = outrem.name
     if resultados[eu][0] and resultados[eu][1]:
@@ -83,11 +99,13 @@ def main():
     # E fica num loop até o server falar que o jogo acabou
     while control != "exit":
         received = receber()
-        print(received)
         if received == 1:
-            print("Você tem {} cartas" .format(len(eu.deck)))
-            print("Seu inimigo tem {} cartas" .format(len(inimigo.deck)))
-            print("Sua Carta do topo é  :")
+            print("|||Você tem {} cartas |||" .format(len(eu.deck)))
+            print("----------------------------------------------------------------")
+            print("|||Seu inimigo tem {} cartas |||" .format(len(inimigo.deck)))
+            print("----------------------------------------------------------------")
+            print("|||Sua Carta do topo é  :")
+            print("----------------------------------------------------------------")
             printCard(eu.deck[0])
             validationMSG = "jogada não valida"
             while validationMSG == "jogada não valida":
@@ -98,11 +116,15 @@ def main():
             print("Esperando Avaliação...")
 
         else:
-            print("Você tem {} cartas" .format(len(eu.deck)))
-            print("Seu inimigo tem {} cartas" .format(len(inimigo.deck)))
-            print("Sua Carta do topo é  :")
+            print("|||Você tem {} cartas |||" .format(len(eu.deck)))
+            print("----------------------------------------------------------------")
+            print("|||Seu inimigo tem {} cartas |||" .format(len(inimigo.deck)))
+            print("----------------------------------------------------------------")
+            print("|||Sua Carta do topo é  :")
+            print("----------------------------------------------------------------")
             printCard(eu.deck[0])
-            print("seu oponente está escolhendo o atributo ...")
+            print("|||seu oponente está escolhendo o atributo ...")
+            print("----------------------------------------------------------------")
             received = receber()
             print("seu oponente escolheu :" + received)
             print("Esperando Avaliação...")
