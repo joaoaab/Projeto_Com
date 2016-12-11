@@ -12,18 +12,13 @@ receiver.bind(("", 0))
 
 def printar_tabuleiro(s, board):
 
-    # WARNING: This function was crafted with a lot of attention. Please be aware that any
-    #          modifications to this function will result in a poor output of the board
-    #          layout. You have been warn.
-
-    # find out if you are printing the Enemy or user board
     player = "Enemy"
     if s == "u":
         player = "User"
 
     print "o tabuleiro do jogador " + player + ": \n"
 
-    # print the horizontal numbers
+    # printa os numeros horizontais
     print " ",
     for i in range(10):
         print "  " + str(i + 1) + "  ",
@@ -31,20 +26,20 @@ def printar_tabuleiro(s, board):
 
     for i in range(10):
 
-        # print the vertical line number
+        # printa os numeros verticais
         if i != 9:
             print str(i + 1) + "  ",
         else:
             print str(i + 1) + " ",
 
-        # print the board values, and cell dividers
+        # printa os valores e vazio se for -1
         for j in range(10):
             if board[i][j] == -1:
                 print ' ',
             elif s == "u":
                 print board[i][j],
             elif s == "e":
-                if board[i][j] == "*" or board[i][j] == "$":
+                if board[i][j] == "*" or board[i][j] == "@":
                     print board[i][j],
                 else:
                     print " ",
@@ -53,7 +48,7 @@ def printar_tabuleiro(s, board):
                 print " | ",
         print
 
-        # print a horizontal line
+        # printa uma linha
         if i != 9:
             print "   ----------------------------------------------------------"
         else:
@@ -62,7 +57,6 @@ def printar_tabuleiro(s, board):
 
 def vertical_or_horizontal():
 
-    # get ship orientation from user
     while(True):
         user_input = raw_input("vertical or horizontal (v,h) ? ")
         if user_input == "v" or user_input == "h":
@@ -76,22 +70,17 @@ def solicitar_coordenada():
     while (True):
         user_input = raw_input("digite as coordenadas (linha,coluna)")
         try:
-            # see that user entered 2 values seprated by comma
             coor = user_input.split(",")
             if len(coor) != 2:
                 raise Exception("Entrada invalida.")
 
-            # check that 2 values are integers
             coor[0] = int(coor[0]) - 1
             coor[1] = int(coor[1]) - 1
 
-            # check that values of integers are between 1 and 10 for both
-            # coordinates
             if coor[0] > 9 or coor[0] < 0 or coor[1] > 9 or coor[1] < 0:
                 raise Exception(
                     "somente valores dentro dos limites !")
 
-            # if everything is ok, return coordinates
             return coor
 
         except ValueError:
@@ -114,8 +103,10 @@ def place_ship(board, ship, s, ori, x, y):
 
 
 def validate(board, ship, x, y, ori):
+		# se tentar colocar vertical e a posicao x + o tamanho do navio for > 10
     if ori == 'v' and x + ship > 10:
         return False
+    # se for vertical e a posicao y + tamanho for > 10
     elif ori == "h" and y + ship > 10:
         return False
     else:
@@ -163,7 +154,7 @@ def cond_vitoria(board):
     # se tiver algum pedaco de barco ainda dentro do tabuleiro retorn False
     for i in range(10):
         for j in range(10):
-            if board[i][j] != -1 and board[i][j] != "*" and board[i][j] != "$":
+            if board[i][j] != -1 and board[i][j] != "*" and board[i][j] != "@":
                 funciona = False
     # se nao, retorna True
     return funciona
@@ -187,7 +178,7 @@ def cond_afundar(board, x, y):
 def jogada(board, x, y):
     if board[x][y] == -1:
         return "miss"
-    elif board[x][y] == "*" or board[x][y] == "$":
+    elif board[x][y] == "*" or board[x][y] == "@":
         return "tente outra vez"
     else:
         return "hit"
@@ -200,7 +191,7 @@ def jogar(board):
         if resposta == "hit":
             print "Acertou em: " + str(x + 1) + "," + str(y + 1)
             cond_afundar(board, x, y)
-            board[x][y] = '$'
+            board[x][y] = '@'
             if cond_vitoria(board):
                 return "WIN"
         elif resposta == "miss":
@@ -275,7 +266,7 @@ def main():
         receiver.sendall(msg)
 
     time.sleep(1)
-    print "$ siginifica que acertou e * que errou"
+    print "@ siginifica que acertou e * que errou"
     while(1):
         if state == 1:
             printar_tabuleiro("e", enemy)
@@ -289,7 +280,9 @@ def main():
 
                 else:
                     receiver.sendall(pickle.dumps(temp))
+                receiver.close()
                 quit()
+                
             else:
                 if len(sys.argv) == 1:
                     enviar_jogada(enemy, conn)
@@ -307,6 +300,7 @@ def main():
 
             if user == "WIN":
                 print "Ele Ganhou !"
+                receiver.close()
                 quit()
 
             printar_tabuleiro("u", user)
