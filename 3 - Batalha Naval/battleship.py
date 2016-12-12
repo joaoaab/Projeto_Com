@@ -39,7 +39,7 @@ def printar_tabuleiro(s, board):
             elif s == "u":
                 print board[i][j],
             elif s == "e":
-                if board[i][j] == "*" or board[i][j] == "@":
+                if board[i][j] == "X" or board[i][j] == "@":
                     print board[i][j],
                 else:
                     print " ",
@@ -123,6 +123,7 @@ def validate(board, ship, x, y, ori):
 
 
 def colocar_navios(board, ships):
+    # Pede ao usuario coordenadas e orientacaoo e dispoe o navio no tabuleiro
     for ship in sorted(ships.keys()):
 
         qtd = ships[ship]
@@ -154,13 +155,15 @@ def cond_vitoria(board):
     # se tiver algum pedaco de barco ainda dentro do tabuleiro retorn False
     for i in range(10):
         for j in range(10):
-            if board[i][j] != -1 and board[i][j] != "*" and board[i][j] != "@":
+            if board[i][j] != -1 and board[i][j] != "X" and board[i][j] != "@":
                 funciona = False
     # se nao, retorna True
     return funciona
 
 
 def cond_afundar(board, x, y):
+    # checa a quantidade de pecas no tabuleiro do navio, se nao houver
+    # printa afundado
     if board[x][y] == "A":
         ship = "Aircraft Carrier"
     elif board[x][y] == "B":
@@ -178,7 +181,7 @@ def cond_afundar(board, x, y):
 def jogada(board, x, y):
     if board[x][y] == -1:
         return "miss"
-    elif board[x][y] == "*" or board[x][y] == "@":
+    elif board[x][y] == "X" or board[x][y] == "@":
         return "tente outra vez"
     else:
         return "hit"
@@ -192,11 +195,12 @@ def jogar(board):
             print "Acertou em: " + str(x + 1) + "," + str(y + 1)
             cond_afundar(board, x, y)
             board[x][y] = '@'
+            time.sleep(2)
             if cond_vitoria(board):
                 return "WIN"
         elif resposta == "miss":
             print "Errou em " + str(x + 1) + "," + str(y + 1)
-            board[x][y] = "*"
+            board[x][y] = "X"
         elif resposta == "tente outra vez":
             print "Coordenada ja tentada antes, tente novamente"
 
@@ -266,7 +270,7 @@ def main():
         receiver.sendall(msg)
 
     time.sleep(1)
-    print "@ siginifica que acertou e * que errou"
+    print "@ siginifica que acertou e X que errou"
     while(1):
         if state == 1:
             printar_tabuleiro("e", enemy)
